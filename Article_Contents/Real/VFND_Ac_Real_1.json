@@ -1,0 +1,58 @@
+{
+  "top_img": "",
+  "text": "",
+  "authors": [
+    ""
+  ],
+  "keywords": [""],
+  "meta_data": {
+    "publisher": "",
+    "description": "",
+    "generator": "",
+    "author": "",
+    "og": {
+      "site_name": "",
+      "description": "",
+      "title": "",
+      "url": "",
+      "image": "",
+      "locale": "",
+      "type": ""
+    },
+    "twitter": {
+      "description": "",
+      "title": "",
+      "url": "",
+      "image": "",
+      "site": "",
+      "card": ""
+    },
+    "fb": {
+      "app_id": null,
+      "pages": null,
+      "admins": "",
+      "author": ""
+    },
+    "article": {
+      "publisher": "",
+      "published_time": "",
+      "modified_time": "",
+      "updated_time": ""
+    },
+    "keywords": "",
+    "google-site-verification": "",
+    "viewport": ""
+  },
+  "canonical_link": "",
+  "images": [
+    
+  ],
+  "title": "",
+  "url": "",
+  "summary": "",
+  "movies": [],
+  "publish_date": {
+    "$date": null
+  },
+  "source": "",
+}
