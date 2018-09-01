@@ -10,8 +10,9 @@ Cấu trúc tên của 1 file bao gồm: VFND_{Source}_{Label}_{Number}. Trong �
 
 ### Giới hạn các chủ đề tin tức trong tập dữ liệu:
 
-Thứ 1: Các tin tức sử dụng trong bộ dataset đều là tin tức tường thuật về 1 sự kiện. Lý do: Để có thể kiểm tra chéo giữa các nguồn tin để xác định được tin tức thật hoặc giả.
-Thứ 2: 
+Thứ 1: Các tin tức sử dụng trong bộ dataset đều là tin tức tường thuật về 1 sự kiện. Lý do: Để có thể kiểm tra chéo giữa các nguồn tin để xác định được tin tức thật hoặc giả trong trường hợp mà cộng đồng chưa hỗ trợ phân loại tin tức.
+
+Thứ 2: Các chủ đề mà bộ dataset tập trung là: Thể thao, Văn hóa, Xã hội, Kinh tế. 
 
 ```
 Give examples
@@ -75,7 +76,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Hồ Quang Thanh** - *Some one who love AI* - [thanhhocse96](https://github.com/thanhhocse96)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
