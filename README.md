@@ -8,11 +8,10 @@ Nếu muốn sử dụng, mời các bạn vui lòng liên hệ đến email: th
 
 Cấu trúc tên của 1 file bao gồm: VFND_{Source}_{Label}_{Number}. Trong đó: {Source}: Ac - nguồn bài báo từ các trang tin tức; Fb - Nguồn từ các bài viết của người dùng hoặc fanpage trên Facebook có tính chất như nguồn tin tức. {Label} thuộc tập {“Fake”, “Real”}
 
-Giới hạn các chủ đề tin tức trong tập dữ liệu: ...
+### Giới hạn các chủ đề tin tức trong tập dữ liệu:
 
-### Prerequisites
-
-What things you need to install the software and how to install them
+Thứ 1: Các tin tức sử dụng trong bộ dataset đều là tin tức tường thuật về 1 sự kiện. Lý do: Để có thể kiểm tra chéo giữa các nguồn tin để xác định được tin tức thật hoặc giả.
+Thứ 2: 
 
 ```
 Give examples
