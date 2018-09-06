@@ -109,4 +109,4 @@ venv.bak/
 .dmypy.json
 dmypy.json
 
-./RawData/.ipynb_checkpoints
+RawData/.ipynb_checkpoints

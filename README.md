@@ -17,8 +17,7 @@ Thứ 2: Các chủ đề mà bộ dataset tập trung là: Thể thao, Văn hó
 
 ### Cách thức lấy dữ liệu
 
-A step by step series of examples that tell you how to get a development env running
-
+Các dữ liệu tin tức và nguồn dữ liệu của bộ dataset sẽ được trình bày trong các file README.md đi theo từng thư mục phân loại. 
 Say what the step will be
 
 ```

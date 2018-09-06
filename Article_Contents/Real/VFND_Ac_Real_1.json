@@ -57,16 +57,16 @@
     "viewport": "width=device-width,initial-scale=1.0, maximum-scale=1.0, user-scalable=no"
   },
   "canonical_link": "",
-  "images": [
+  "image-url": [
     "https://znews-photo-td.zadn.vn/w660/Uploaded/oqivovbt/2018_07_19/mr_bean.jpg",
     "https://znews-photo-td.zadn.vn/w660/Uploaded/oqivovbt/2018_07_19/hoax_1.jpg"
   ],
   "title": "Tung tin &#39;Mr Bean&#39; qua đời để phát tán virus độc hại",
-  "url": "",
+  "url": "https://news.zing.vn/tung-tin-mr-bean-qua-doi-de-phat-tan-virus-doc-hai-post861659.html",
   "summary": "",
   "movies": [],
   "publish_date": {
     "$date": null
   },
-  "source": ""
+  "source": "https://news.zing.vn"
 }
