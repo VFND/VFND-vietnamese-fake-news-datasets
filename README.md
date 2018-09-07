@@ -8,20 +8,16 @@ Nếu muốn sử dụng, mời các bạn vui lòng liên hệ đến email: th
 
 Cấu trúc tên của 1 file bao gồm: VFND_{Source}_{Label}_{Number}. Trong đó: {Source}: Ac - nguồn bài báo từ các trang tin tức; Fb - Nguồn từ các bài viết của người dùng hoặc fanpage trên Facebook có tính chất như nguồn tin tức. {Label} thuộc tập {“Fake”, “Real”}
 
-Giới hạn các chủ đề tin tức trong tập dữ liệu: ...
+### Giới hạn các chủ đề tin tức trong tập dữ liệu:
 
-### Prerequisites
+Thứ 1: Các tin tức sử dụng trong bộ dataset đều là tin tức tường thuật về 1 sự kiện. Lý do: Để có thể kiểm tra chéo giữa các nguồn tin để xác định được tin tức thật hoặc giả trong trường hợp mà cộng đồng chưa hỗ trợ phân loại tin tức.
 
-What things you need to install the software and how to install them
+Thứ 2: Các chủ đề mà bộ dataset tập trung là: Thể thao, Văn hóa, Xã hội, Kinh tế, Pháp luật. Các tin tức sẽ được kiểm tra chéo về nguồn gốc, nội dung, sự kiện để xác định thật và giả
 
-```
-Give examples
-```
 
-### Installing
+### Cách thức lấy dữ liệu
 
-A step by step series of examples that tell you how to get a development env running
-
+Các dữ liệu tin tức và nguồn dữ liệu của bộ dataset sẽ được trình bày trong các file README.md đi theo từng thư mục phân loại. 
 Say what the step will be
 
 ```
@@ -76,7 +72,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Hồ Quang Thanh** - *Some one who love AI* - [thanhhocse96](https://github.com/thanhhocse96)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
