@@ -17,8 +17,10 @@ Thứ 2: Các chủ đề mà bộ dataset tập trung là: Thể thao, Văn hó
 
 ### Cách thức lấy dữ liệu
 
-Các dữ liệu tin tức và nguồn dữ liệu của bộ dataset sẽ được trình bày trong các file README.md đi theo từng thư mục phân loại. 
-Say what the step will be
+Các dữ liệu tin tức và nguồn dữ liệu của bộ dataset sẽ được trình bày trong các file README.md đi theo từng thư mục phân loại. Trong đó nội dung các file sẽ đưa ra nguồn tin tức và cách mà nhóm phân loại tin tức đó là giả.
+
+Nhóm sử dụng thư viện: 
+
 
 ```
 Give the example
