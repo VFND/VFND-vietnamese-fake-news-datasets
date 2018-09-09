@@ -7,7 +7,10 @@
     "date_publish": "2018-08-17 12:31:00",
     "description": "Kết luận về vụ Con Cưng, Bộ Công Thương cho biết doanh nghiệp không nhập lậu hàng hóa, không bán hàng giả, nhưng có sai sót trong ghi nhãn hàng hóa với một số mặt hàng.",
     "filename": "https%3A%2F%2Fnews.zing.vn%2Fbo-cong-thuong-ket-luan-con-cung-co-sai-sot-nhung-khong-ban-hang-gia-post869549.html.json",
-    "image_url": ["https://stc.v3.news.zing.vn/favicon.ico"],
+    "image_url": ["https://stc.v3.news.zing.vn/favicon.ico", 
+        "https://znews-photo-td.zadn.vn/w660/Uploaded/rugtnv/2018_08_17/ConCung.jpg",
+        "https://znews-photo-td.zadn.vn/w210/Uploaded/iutmtn/2018_08_12/3415810d80be71eacac866e2376ab9d4.JPG"
+    ],
     "movies": [],
     "language": "vi",
     "localpath": null,
