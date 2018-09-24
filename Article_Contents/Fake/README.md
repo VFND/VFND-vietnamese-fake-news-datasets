@@ -17,3 +17,5 @@ VFND_Ac_Fake_6: [Cười vỡ bụng khi tiếng CẢI CÁCH \"vuông tròn\" x�
 VFND_Ac_Fake_7: [Chia sẻ thẳng thắn vụ việc 25000 USD và cải cách giáo dục, rốt cục là “sân si” hay là “ganh tị”](https://giadinhtiepthi.com/chia-se-thang-than-vu-viec-25000-usd-va-cai-cach-giao-duc-rot-cuc-la-san-si-hay-la-ganh-ti/) - Nội dung không liên quan đến tiêu đề và nội dung chung
 
 VFND_Ac_Fake_8: [Hại não với Vọng Cổ mang tên Vuông Tròn Tam Giác!](http://tintucqpvn.net/hai-nao-voi-vong-co-mang-ten-vuong-tron-tam-giac.html) - Tiêu đề và nội dung không khớp, tiêu đề kích động
+
+VFND_Ac_Fake_9: [Kinh hoàng bé gái bị chó nhà tấn công, cắn vào khắp người gây phẫn nộ](http://tintucqpvn.net/kinh-hoang-be-gai-bi-cho-nha-tan-cong-can-vao-khap-nguoi-gay-phan-no.html) - Nội dung và tiêu đề không liên quan
