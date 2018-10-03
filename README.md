@@ -73,7 +73,10 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Hồ Quang Thanh** - *Some one who love AI* - [thanhhocse96](https://github.com/thanhhocse96)
+* **Phạm Minh Ninh** - [ninh-pm-se](https://github.com/ninh-pm-se)
+
+* **Hồ Quang Thanh** - [thanhhocse96](https://github.com/thanhhocse96)
+
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
