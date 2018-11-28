@@ -1,6 +1,6 @@
 # Các tin tức giả được dẫn và nguồn
 
-Cấu trúc của phần lưu trữ tin tức giả: __{Tên file}: {Tiêu đề/Link} - {Lý do phân loại}__
+Cấu trúc của phần lưu trữ tin tức giả: __{Tên file}: {Tiêu đề/Link} - {Lý do phân loại}__. Trong một số tin tức sẽ có thêm phần _relevant_\__site_"
 
 VFND_Ac_Fake_1: [Thủ tướng Abe cúi đầu xin lỗi vì hành động phi thể thao của tuyển Nhật](http://binhluan.biz/thu-tuong-abe-cui-dau-xin-loi-vi-hanh-dong-phi-the-thao-cua-tuyen-nhat.html) - So sánh với nguồn tin chuẩn, hình ảnh sai lệch
 
@@ -19,3 +19,5 @@ VFND_Ac_Fake_7: [Chia sẻ thẳng thắn vụ việc 25000 USD và cải cách 
 VFND_Ac_Fake_8: [Hại não với Vọng Cổ mang tên Vuông Tròn Tam Giác!](http://tintucqpvn.net/hai-nao-voi-vong-co-mang-ten-vuong-tron-tam-giac.html) - Tiêu đề và nội dung không khớp, tiêu đề kích động
 
 VFND_Ac_Fake_9: [Kinh hoàng bé gái bị chó nhà tấn công, cắn vào khắp người gây phẫn nộ](http://tintucqpvn.net/kinh-hoang-be-gai-bi-cho-nha-tan-cong-can-vao-khap-nguoi-gay-phan-no.html) - Nội dung và tiêu đề không liên quan
+
+VFND_Ac_Fake_10: [Bức vẽ giúp bạn đánh giá mức độ stress của bản thân](https://suckhoe.vnexpress.net/tin-tuc/tu-van/buc-ve-giup-ban-danh-gia-muc-do-stress-cua-ban-than-3840208.html) - bài viết mang thông tin giả, được nhóm kiểm chứng trong [post sau](https://zefro.wordpress.com/2018/11/20/khi-hinh-ban-nhin-khong-nhu-dieu-ban-doc-lat-tay-tin-gia-1/)
