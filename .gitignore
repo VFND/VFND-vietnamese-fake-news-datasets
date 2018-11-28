@@ -109,5 +109,7 @@ venv.bak/
 .dmypy.json
 dmypy.json
 
+Article_Contents/.ipynb_checkpoints
 GetData/.ipynb_checkpoints
 .vscode
+URL
