@@ -22,19 +22,26 @@ Các dữ liệu tin tức và nguồn dữ liệu của bộ dataset sẽ đư�
 Nhóm sử dụng thư viện: [news-please](https://github.com/fhamborg/news-please) 
 
 ## 2. Mô tả các thành phần trong bộ dữ liệu
-### [_Article_\__Contents_](https://github.com/thanhhocse96/vfnd-vietnamese-fake-news-datasets/tree/master/Article_Contents): tập hợp các bài báo đã được phân loại 
+### 2.1. [_Article_\__Contents_](https://github.com/thanhhocse96/vfnd-vietnamese-fake-news-datasets/tree/master/Article_Contents): tập hợp các bài báo đã được phân loại 
 
 Thư mục được cấu trúc theo từng label của tin tức: ```Fake, Real, Unclarified```, trong đó dữ liệu trong ```Unclarified``` sẽ được phân loại theo ```Fake, Real``` sau khi được xác nhận.
 
-File ```stance.csv``` sẽ chứa stance (lập trường) của tin tức trong thư mục này. Phục vụ cho Stance Detection, nhóm tham khảo từ:
+File ```stance.csv``` sẽ chứa stance (lập trường) của tin tức trong thư mục. Mục đích: phục vụ cho Stance Detection. Nhóm tham khảo Stance Detection từ:
 1. [FakeNewsChallenge](http://www.fakenewschallenge.org/)
 2. [Emergent: a novel data-set for stance classification](http://aclweb.org/anthology/N/N16/N16-1138.pdf)
 3. [Stance Detection with Bidirectional Conditional Encoding](https://arxiv.org/abs/1606.05464)
 Cấu trúc của file ```stance.csv``` bao gồm 2 trường: ```filename``` - tên của các file trong tập dữ liệu về tin tức - và ```stance``` - stance của dữ liệu, bao gồm 4 nhãn: ```agrees, disagrees, discusses, unrelated``` như [FakeNewsChallenge](http://www.fakenewschallenge.org/)
 
-### [_Facebook_](https://github.com/thanhhocse96/vfnd-vietnamese-fake-news-datasets/tree/master/Facebook): tập hợp các facebook post đã được phân loại
+### 2.2. [_Facebook_](https://github.com/thanhhocse96/vfnd-vietnamese-fake-news-datasets/tree/master/Facebook): tập hợp các facebook post đã được phân loại
 Cấu trúc của thư mục cũng tương tự như cấu trúc của _Article_\__Contents_, tuy nhiên, trong thư mục này nhóm tập trung vào những post được cộng đồng xác định là giả (Fake) hoặc chưa xác định thật giả (Unclarified)
 ### [_Utils_](): Các file hỗ trợ
+
+## Authors
+
+* **Phạm Minh Ninh** - *Bach Khoa HCM - CS student* - [github](https://github.com/ninh-pm-se) - [facebook](https://www.facebook.com/minhninh.pham)
+* **Hồ Quang Thanh** - *Bach Khoa HCM - CS student* - [github](https://github.com/thanhhocse96)
+
+Xem thêm trong [contributors](https://github.com/your/project/contributors).
 
 # ----Draft-----
 ```
@@ -87,11 +94,7 @@ Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c6
 
 We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
 
-## Authors
 
-* **Hồ Quang Thanh** - *Some one who love AI* - [thanhhocse96](https://github.com/thanhhocse96)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
 ## License
 
