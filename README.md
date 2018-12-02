@@ -36,6 +36,13 @@ Cấu trúc của file ```stance.csv``` bao gồm 2 trường: ```filename``` - 
 Cấu trúc của thư mục cũng tương tự như cấu trúc của _Article_\__Contents_, tuy nhiên, trong thư mục này nhóm tập trung vào những post được cộng đồng xác định là giả (Fake) hoặc chưa xác định thật giả (Unclarified)
 ### [_Utils_](): Các file hỗ trợ
 
+## Authors
+
+* **Phạm Minh Ninh** - *Bach Khoa HCM - CS student* - [github](https://github.com/ninh-pm-se) - [facebook](https://www.facebook.com/minhninh.pham)
+* **Hồ Quang Thanh** - *Bach Khoa HCM - CS student* - [github](https://github.com/thanhhocse96)
+
+Xem thêm trong [contributors](https://github.com/your/project/contributors).
+
 # ----Draft-----
 ```
 Give the example
@@ -87,11 +94,7 @@ Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c6
 
 We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
 
-## Authors
 
-* **Hồ Quang Thanh** - *Some one who love AI* - [thanhhocse96](https://github.com/thanhhocse96)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
 ## License
 
