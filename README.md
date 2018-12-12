@@ -1,6 +1,6 @@
 # VIETNAMESE FAKE NEWS DATASET - VFND
 
-VFND là bộ dataset về các tin tức giả bằng ngôn ngữ tiếng Việt được tập hợp trong khoảng thời gian 2017-2019, các tin tức được đưa vào đây được phân loại thật giả dựa trên một số nguồn tin, tham chiếu chéo đến các nguồn tin được dẫn hoặc được phân loại bởi cộng đồng. 
+VFND là bộ dataset về các tin tức giả bằng ngôn ngữ tiếng Việt được tập hợp trong khoảng thời gian từ 2017 đến nay, các tin tức được đưa vào đây được phân loại thật giả dựa trên một số nguồn tin, tham chiếu chéo đến các nguồn tin được dẫn hoặc được phân loại bởi cộng đồng. 
 
 Nếu muốn sử dụng, mời các bạn vui lòng liên hệ đến email: thanh.hoquangcse96@gmail.com, và vui lòng dẫn nguồn của repo này trong bài viết của bạn
 
@@ -8,14 +8,15 @@ Nếu muốn sử dụng, mời các bạn vui lòng liên hệ đến email: th
 
 Cấu trúc tên của 1 file bao gồm: VFND_{Source}\_{Label}\_{Number}. Trong đó: {Source}: Ac - nguồn bài báo từ các trang tin tức; Fb - Nguồn từ các bài viết của người dùng hoặc fanpage trên Facebook có tính chất như nguồn tin tức. {Label} thuộc tập {“Fake”, “Real”}
 
-### Giới hạn các chủ đề tin tức trong tập dữ liệu:
+### 1.1 Giới hạn các chủ đề tin tức trong tập dữ liệu:
 
-Thứ 1: Các tin tức sử dụng trong bộ dataset đều là tin tức tường thuật về 1 sự kiện. Lý do: Để có thể kiểm tra chéo giữa các nguồn tin để xác định được tin tức thật hoặc giả trong trường hợp mà cộng đồng chưa hỗ trợ phân loại tin tức.
+1. Các tin tức sử dụng trong bộ dataset đều là tin tức tường thuật về 1 sự kiện. Lý do: Để có thể kiểm tra chéo giữa các nguồn tin để xác định được tin tức thật hoặc giả trong trường hợp mà cộng đồng chưa hỗ trợ phân loại tin tức.
 
-Thứ 2: Các chủ đề mà bộ dataset tập trung là: Thể thao, Văn hóa, Xã hội, Kinh tế, Pháp luật. Các tin tức sẽ được kiểm tra chéo về nguồn gốc, nội dung, sự kiện để xác định thật và giả
+2. Các chủ đề mà bộ dataset tập trung là: Thể thao, Văn hóa, Xã hội, Kinh tế, Pháp luật. Các tin tức sẽ được kiểm tra chéo về nguồn gốc, nội dung, sự kiện để xác định thật và giả
 
+3. Một số chú ý: Một số tin tức sẽ được nhóm mặc định là tin giả: tin tức có tính chất mê tín, dị đoan;
 
-### Cách thức lấy dữ liệu
+### 1.2. Cách thức lấy dữ liệu
 
 Các dữ liệu tin tức và nguồn dữ liệu của bộ dataset sẽ được trình bày trong các file README.md đi theo từng thư mục phân loại. Trong đó nội dung các file sẽ đưa ra nguồn tin tức và cách mà nhóm phân loại tin tức đó là giả.
 
@@ -34,9 +35,15 @@ Cấu trúc của file ```stance.csv``` bao gồm 2 trường: ```filename``` - 
 
 ### 2.2. [_Facebook_](https://github.com/thanhhocse96/vfnd-vietnamese-fake-news-datasets/tree/master/Facebook): tập hợp các facebook post đã được phân loại
 Cấu trúc của thư mục cũng tương tự như cấu trúc của _Article_\__Contents_, tuy nhiên, trong thư mục này nhóm tập trung vào những post được cộng đồng xác định là giả (Fake) hoặc chưa xác định thật giả (Unclarified)
-### [_Utils_](): Các file hỗ trợ
+### 2.3. [_Utils_](https://github.com/thanhhocse96/vfnd-vietnamese-fake-news-datasets/tree/master/Utils): Các file hỗ trợ
 
-## Authors
+
+### 2.4. [_Dictionaries_](): Một số bộ từ điển hỗ trợ
+
+
+## 3. Các thư viện được sử dụng
+
+## 4. Các tác giả
 
 * **Phạm Minh Ninh** - *Bach Khoa HCM - CS student* - [github](https://github.com/ninh-pm-se) - [facebook](https://www.facebook.com/minhninh.pham)
 * **Hồ Quang Thanh** - *Bach Khoa HCM - CS student* - [github](https://github.com/thanhhocse96)
