@@ -34,7 +34,10 @@ Cấu trúc của file ```stance.csv``` bao gồm 2 trường: ```filename``` - 
 
 ### 2.2. [_Facebook_](https://github.com/thanhhocse96/vfnd-vietnamese-fake-news-datasets/tree/master/Facebook): tập hợp các facebook post đã được phân loại
 Cấu trúc của thư mục cũng tương tự như cấu trúc của _Article_\__Contents_, tuy nhiên, trong thư mục này nhóm tập trung vào những post được cộng đồng xác định là giả (Fake) hoặc chưa xác định thật giả (Unclarified)
-### [_Utils_](): Các file hỗ trợ
+### [_Utils_](https://github.com/thanhhocse96/vfnd-vietnamese-fake-news-datasets/tree/master/Utils): Các file hỗ trợ
+
+
+### [_Dictionaries_](): Một số bộ từ điển hỗ trợ
 
 ## Authors
 
