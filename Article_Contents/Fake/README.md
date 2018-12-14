@@ -198,6 +198,8 @@ VFND_Ac_Fake_96: [Chuyện li kì người phụ nữ cứu rắn hổ chúa và
 
 VFND_Ac_Fake_97: [Chỉ vài giây dừng chờ đèn đỏ, người đàn ông này đã khiến cả quốc gia khóc thét khi tìm thấy điểm rùng rợn lấp ló trong áo](http://tinvn.info/chi-vai-giay-dung-cho-den-do-nguoi-dan-ong-nay-da-khien-ca-quoc-gia-khoc-thet-khi-tim-thay-diem-rung-ron-lap-lo-trong-ao.html)
 
-VFND_Ac_Fake_98: [Người cha thú tính mang bệnh HIV vẫn c.ưỡng h.iếp con gái](http://tinvn.info/nguoi-cha-thu-tinh-mang-benh-hiv-van-c-uong-h-iep-con-gai.html)
+VFND_Ac_Fake_98: [Người cha thú tính mang bệnh HIV vẫn c.ưỡng h.iếp con gái](http://tinvn.info/nguoi-cha-thu-tinh-mang-benh-hiv-van-c-uong-h-iep-con-gai.html) - Mang các thông tin ở file VFND_Ac_Fake_100
 
 VFND_Ac_Fake_99: [Chữa hết bệnh câm cho vợ, người chồng cay đắng nhìn vợ ra đi tìm cuộc sống mới vì lý do tưởng chỉ có trong phim](http://tinvn.info/chua-het-benh-cam-cho-vo-nguoi-chong-cay-dang-nhin-vo-ra-di-tim-cuoc-song-moi-vi-ly-do-tuong-chi-co-trong-phim.html)
+
+VFND_Ac_Fake_100: [YÊU RÂU XANH (P51): Câu chuyện động trời sau tấm ri đô mỏng](https://www.vietgiaitri.com/phap-luat/201304/yeu-rau-xanh-p51-cau-chuyen-dong-troi-sau-tam-ri-do-mong-735408/)
