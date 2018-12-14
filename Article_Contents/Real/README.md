@@ -97,3 +97,156 @@ VFND_Ac_Real_45: [Chủ đầu tư nói gì về chuyện BOT An Sương - An L�
 VFND_Ac_Real_46: [Cầu vượt biển dài nhất Việt Nam bị rải đinh dày đặc](https://vnexpress.net/tin-tuc/thoi-su/cau-vuot-bien-dai-nhat-viet-nam-bi-rai-dinh-day-dac-3849220.html)
 
 VFND_Ac_Real_47: [Trung Quốc giảm nhập bưởi và sầu riêng Việt](https://kinhdoanh.vnexpress.net/tin-tuc/hang-hoa/trung-quoc-giam-nhap-buoi-va-sau-rieng-viet-3848788.html)
+
+VFND_Ac_Real_48: [Ba du khách tử vong ở Đà Nẵng trúng chất độc ảnh hưởng tim mạch](https://vnexpress.net/tin-tuc/thoi-su/ba-du-khach-tu-vong-o-da-nang-trung-chat-doc-anh-huong-tim-mach-3849019.html)
+
+VFND_Ac_Real_49: [Ôtô ở Sài Gòn cuốn hàng loạt người, xe máy vào gầm](https://vnexpress.net/tin-tuc/thoi-su/oto-o-sai-gon-cuon-hang-loat-nguoi-xe-may-vao-gam-3849793.html)
+
+VFND_Ac_Real_50: ['Xã hội đen' Hải Phòng xây hàng trăm nhà trái phép trên đất quốc phòng](https://vnexpress.net/tin-tuc/thoi-su/xa-hoi-den-hai-phong-xay-hang-tram-nha-trai-phep-tren-dat-quoc-phong-3825660.html)
+
+VFND_Ac_Real_51: [Nữ tiếp viên gốc Hoa bị chụp trộm gây sốt mạng xã hội](https://dulich.vnexpress.net/photo/quoc-te/nu-tiep-vien-goc-hoa-bi-chup-trom-gay-sot-mang-xa-hoi-3824611.html)
+
+VFND_Ac_Real_52: [Xã hội đen Đài Loan mở tiệm mỳ miễn phí cho người nghèo](https://vnexpress.net/tin-tuc/the-gioi/cuoc-song-do-day/xa-hoi-den-dai-loan-mo-tiem-my-mien-phi-cho-nguoi-ngheo-3805449.html)
+
+VFND_Ac_Real_53: [Khởi tố ông Nguyễn Hoài Nam - bí thư Quận ủy Quận 2](https://tuoitre.vn/khoi-to-ong-nguyen-hoai-nam-bi-thu-quan-uy-quan-2-20181208122830771.htm)
+
+VFND_Ac_Real_54: [vũ khí kết nối người trẻ của Tổng thống Indonesia](https://vnexpress.net/tin-tuc/the-gioi/tu-lieu/mang-xa-hoi-vu-khi-ket-noi-nguoi-tre-cua-tong-thong-indonesia-3803721.html)
+
+VFND_Ac_Real_55: [Ăn chênh 600 triệu đồng một suất mua nhà xã hội khu trung tâm](https://kinhdoanh.vnexpress.net/tin-tuc/bat-dong-san/an-chenh-600-trieu-dong-mot-suat-mua-nha-xa-hoi-khu-trung-tam-3847177.html)
+
+VFND_Ac_Real_56: [Thừa Thiên Huế cảnh báo mưa lũ qua mạng xã hội](https://vnexpress.net/tin-tuc/thoi-su/thua-thien-hue-canh-bao-mua-lu-qua-mang-xa-hoi-3811210.html)
+
+VFND_Ac_Real_57: [Tại sao Apple chưa bao giờ quảng cáo trên mạng xã hội](https://sohoa.vnexpress.net/tin-tuc/doi-song-so/tai-sao-apple-chua-bao-gio-quang-cao-tren-mang-xa-hoi-3809397.html)
+
+VFND_Ac_Real_58: [Lao động nước ngoài ở Việt Nam phải đóng bảo hiểm xã hội](https://vnexpress.net/tin-tuc/thoi-su/lao-dong-nuoc-ngoai-o-viet-nam-phai-dong-bao-hiem-xa-hoi-3826169.html)
+
+VFND_Ac_Real_59: [Người Việt ở Paris: Cuộc sống vẫn diễn ra bình thường bất chấp bạo loạn](https://vnexpress.net/tin-tuc/the-gioi/nguoi-viet-5-chau/nguoi-viet-o-paris-cuoc-song-van-dien-ra-binh-thuong-bat-chap-bao-loan-3849033.html)
+
+VFND_Ac_Real_60: [Cuộc sống của những người Thủ Thiêm cố giữ đất](https://vnexpress.net/tin-tuc/thoi-su/cuoc-song-cua-nhung-nguoi-thu-thiem-co-giu-dat-3745415.html)
+
+VFND_Ac_Real_61: [Cảnh đời người đàn ông Nhật sống mòn trên tiền thừa kế](https://doisong.vnexpress.net/tin-tuc/to-am/canh-doi-nguoi-dan-ong-nhat-song-mon-tren-tien-thua-ke-3841654.html)
+
+VFND_Ac_Real_62: [Cuộc sống ở 'ốc đảo' biệt thự ngoại thành Hà Nội](https://doisong.vnexpress.net/tin-tuc/loi-song/cuoc-song-o-oc-dao-biet-thu-ngoai-thanh-ha-noi-3818370.html)
+
+VFND_Ac_Real_63: [Vẻ xa xỉ của Song Hye Kyo khi đóng quý cô trâm anh thế phiệt](https://giaitri.vnexpress.net/tin-tuc/thoi-trang/lang-mot/ve-xa-xi-cua-song-hye-kyo-khi-dong-quy-co-tram-anh-the-phiet-3849647.html)
+
+VFND_Ac_Real_64: [Thương em bị mẹ vợ đoạ đày, anh trai gây án giết người](https://vnexpress.net/tin-tuc/phap-luat/ho-so-pha-an/thuong-em-bi-me-vo-doa-day-anh-trai-gay-an-giet-nguoi-3837455.html)
+
+VFND_Ac_Real_65: [Đội cảnh sát có khả năng siêu nhớ mặt tại Anh](https://vnexpress.net/tin-tuc/phap-luat/doi-canh-sat-co-kha-nang-sieu-nho-mat-tai-anh-3844578.html)
+
+VFND_Ac_Real_66: [Người Hà Nội chen chân chụp ảnh trong vườn cúc hoạ mi](https://vnexpress.net/photo/thoi-su/nguoi-ha-noi-chen-chan-chup-anh-trong-vuon-cuc-hoa-mi-3844419.html)
+
+VFND_Ac_Real_67: [Người Việt đã vỡ mộng xe giá rẻ?](https://vnexpress.net/tin-tuc/oto-xe-may/dien-dan/nguoi-viet-da-vo-mong-xe-gia-re-3769682.html)
+
+VFND_Ac_Real_68: [Tài xế ép hàng loạt xe máy, ôtô nhập đúng làn ở Đà Nẵng](https://vnexpress.net/tin-tuc/cong-dong/video/tai-xe-ep-hang-loat-xe-may-oto-nhap-dung-lan-o-da-nang-3758654.html)
+
+VFND_Ac_Real_69: [Bộ sưu tập xe trị giá 1,3 triệu USD của Neymar](https://vnexpress.net/photo/oto-xe-may/bo-suu-tap-xe-tri-gia-13-trieu-usd-cua-neymar-3767355.html)
+
+VFND_Ac_Real_70: [Vì sao Toyota Vios tăng giá trong khi xe hãng khác giảm?](https://vnexpress.net/tin-tuc/oto-xe-may/dien-dan/vi-sao-toyota-vios-tang-gia-trong-khi-xe-hang-khac-giam-3786253.html)
+
+VFND_Ac_Real_71: [Thói quen lái xe giúp tiết kiệm 25% nhiên liệu](https://vnexpress.net/tin-tuc/oto-xe-may/tu-van/thoi-quen-lai-xe-giup-tiet-kiem-25-nhien-lieu-3622374.html)
+
+VFND_Ac_Real_72: [Cụ bà Nhật ăn cắp vặt để vào tù, trốn tránh cô đơn](https://vnexpress.net/tin-tuc/the-gioi/cuoc-song-do-day/cu-ba-nhat-an-cap-vat-de-vao-tu-tron-tranh-co-don-3724555.html)
+
+VFND_Ac_Real_73: [Nam cảnh sát Mỹ truy đuổi nữ sinh viên để sàm sỡ](https://vnexpress.net/tin-tuc/phap-luat/ho-so-pha-an/nam-canh-sat-my-truy-duoi-nu-sinh-vien-de-sam-so-3760202.html)
+
+VFND_Ac_Real_74: [Tài xế xe sang che biển số để lùi trên cao tốc](https://vnexpress.net/tin-tuc/oto-xe-may/tai-xe-xe-sang-che-bien-so-de-lui-tren-cao-toc-3776294.html)
+
+VFND_Ac_Real_75: [Máy bay quay đầu để cấp cứu sản phụ người nước ngoài](https://vnexpress.net/tin-tuc/thoi-su/may-bay-quay-dau-de-cap-cuu-san-phu-nguoi-nuoc-ngoai-3750857.html)
+
+VFND_Ac_Real_76: [Cô gái 17 tuổi được NASA đào tạo để đặt chân lên Sao Hỏa](https://vnexpress.net/tin-tuc/giao-duc/co-gai-17-tuoi-duoc-nasa-dao-tao-de-dat-chan-len-sao-hoa-3775543.html)
+
+VFND_Ac_Real_77: [Thói quen Bill Gates đã từ bỏ để thành công](https://kinhdoanh.vnexpress.net/tin-tuc/quoc-te/thoi-quen-bill-gates-da-tu-bo-de-thanh-cong-3724397.html)
+
+VFND_Ac_Real_78: [Giáo viên đề nghị bỏ thi trắc nghiệm môn Lịch sử](https://vnexpress.net/tin-tuc/giao-duc/giao-vien-de-nghi-bo-thi-trac-nghiem-mon-lich-su-3784662.html)
+
+VFND_Ac_Real_79: [Sẽ bỏ quản lý dân cư bằng hộ khẩu](https://vnexpress.net/tin-tuc/phap-luat/se-bo-quan-ly-dan-cu-bang-ho-khau-3665172.html)
+
+VFND_Ac_Real_80: [Bé gái bị cha cứa cổ khi muốn đi tập văn nghệ đêm trung thu](https://vnexpress.net/tin-tuc/phap-luat/be-gai-bi-cha-cua-co-khi-muon-di-tap-van-nghe-dem-trung-thu-3814980.html)
+
+VFND_Ac_Real_81: [Người đi xe đạp điện chém chết tài xế ôtô ở Trung Quốc thoát tội](https://vnexpress.net/tin-tuc/the-gioi/cuoc-song-do-day/nguoi-di-xe-dap-dien-chem-chet-tai-xe-oto-o-trung-quoc-thoat-toi-3803024.html)
+
+VFND_Ac_Real_82: [Đường đi bộ lát gỗ lim ven sông Hương sắp hoàn thành](https://vnexpress.net/tin-tuc/thoi-su/duong-di-bo-lat-go-lim-ven-song-huong-sap-hoan-thanh-3795346.html)
+
+VFND_Ac_Real_83: [Cựu nữ chủ tịch xã 45 tuổi đi thi THPT quốc gia](https://vnexpress.net/tin-tuc/giao-duc/tuyen-sinh/cuu-nu-chu-tich-xa-45-tuoi-di-thi-thpt-quoc-gia-3768122.html)
+
+VFND_Ac_Real_84: [Luật cho phép xe cứu hỏa được đi ngược chiều khi làm nhiệm vụ](https://vnexpress.net/tin-tuc/oto-xe-may/tu-van/luat-cho-phep-xe-cuu-hoa-duoc-di-nguoc-chieu-khi-lam-nhiem-vu-3724667.html)
+
+VFND_Ac_Real_85: [Nguyễn Khắc Thủy tự nguyện đi thi hành án 3 năm tù](https://vnexpress.net/tin-tuc/phap-luat/nguyen-khac-thuy-tu-nguyen-di-thi-hanh-an-3-nam-tu-3765199.html)
+
+VFND_Ac_Real_86: [TP HCM muốn có tuyến buýt từ Tân Sơn Nhất đi các tỉnh](https://vnexpress.net/tin-tuc/thoi-su/giao-thong/tp-hcm-muon-co-tuyen-buyt-tu-tan-son-nhat-di-cac-tinh-3767224.html)
+
+VFND_Ac_Real_87: [Thanh Hoá chi gần 700 triệu cho ba cán bộ đi Mỹ xúc tiến đầu tư](https://vnexpress.net/tin-tuc/thoi-su/thanh-hoa-chi-gan-700-trieu-cho-ba-can-bo-di-my-xuc-tien-dau-tu-3804502.html)
+
+VFND_Ac_Real_88: [Đại ca giang hồ bị bắn chết khi đi dằn mặt](https://vnexpress.net/tin-tuc/phap-luat/dai-ca-giang-ho-bi-ban-chet-khi-di-dan-mat-3813273.html)
+
+VFND_Ac_Real_89: [Con không chịu đi học, mẹ Thái Lan bắt nhặt rác cả ngày](https://vnexpress.net/tin-tuc/giao-duc/con-khong-chiu-di-hoc-me-thai-lan-bat-nhat-rac-ca-ngay-3703551.html)
+
+VFND_Ac_Real_90: [Ôtô đi ngược chiều bị phạt 800.000 đồng](https://vnexpress.net/tin-tuc/phap-luat/tu-van/oto-di-nguoc-chieu-bi-phat-800-000-dong-3533546.html)
+
+VFND_Ac_Real_91: [Cha đẻ robot Sophia: Người máy sẽ có quyền kết hôn với con người](https://vnexpress.net/tin-tuc/khoa-hoc/cha-de-robot-sophia-nguoi-may-se-co-quyen-ket-hon-voi-con-nguoi-3754297.html)
+
+VFND_Ac_Real_92: [Nghi phạm sát hại 3 người trong gia đình ở Tiền Giang bị bắt](https://vnexpress.net/tin-tuc/phap-luat/nghi-pham-sat-hai-3-nguoi-trong-gia-dinh-o-tien-giang-bi-bat-3792157.html)
+
+VFND_Ac_Real_93: [Tài xế taxi tông người trông xe tử vong vì bị nhắc nhở](https://vnexpress.net/tin-tuc/phap-luat/tai-xe-taxi-tong-nguoi-trong-xe-tu-vong-vi-bi-nhac-nho-3801070.html)
+
+VFND_Ac_Real_94: [Số người chết sau thảm họa ở Indonesia tăng lên 1.347](https://vnexpress.net/tin-tuc/the-gioi/so-nguoi-chet-sau-tham-hoa-o-indonesia-tang-len-1-374-3818377.html)
+
+VFND_Ac_Real_95: [Ôtô Mercedes lật nhiều vòng trên đường Sài Gòn](https://vnexpress.net/tin-tuc/thoi-su/giao-thong/oto-mercedes-lat-nhieu-vong-tren-duong-sai-gon-3815162.html)
+
+VFND_Ac_Real_96: [Nhiều tụ điểm thác loạn ở TP HCM bị xem xét điều tra](https://vnexpress.net/tin-tuc/phap-luat/nhieu-tu-diem-thac-loan-o-tp-hcm-bi-xem-xet-dieu-tra-3748324.html)
+
+VFND_Ac_Real_97: [Trung Quốc hủy nhiều chuyến bay tới Thường Châu, CĐV Việt lo lắng](https://vnexpress.net/tin-tuc/the-gioi/nguoi-viet-5-chau/trung-quoc-huy-nhieu-chuyen-bay-toi-thuong-chau-cdv-viet-lo-lang-3704082.html)
+
+VFND_Ac_Real_98: [TP HCM sẽ có thêm nhiều phố đi bộ](https://vnexpress.net/tin-tuc/thoi-su/tp-hcm-se-co-them-nhieu-pho-di-bo-3811204.html)
+
+VFND_Ac_Real_99: [Nhiều người mẩn ngứa sau khi tắm biển ở Đà Nẵng](https://vnexpress.net/tin-tuc/thoi-su/nhieu-nguoi-man-ngua-sau-khi-tam-bien-o-da-nang-3772576.html)
+
+VFND_Ac_Real_100: [Xả súng tại nhà thờ Mỹ, ít nhất 26 người thiệt mạng](https://vnexpress.net/tin-tuc/the-gioi/xa-sung-tai-nha-tho-my-it-nhat-26-nguoi-thiet-mang-3665999.html)
+
+VFND_Ac_Real_101: [HLV Eriksson dự đoán tuyển VN sẽ đá bại Malaysia](https://thethao.tuoitre.vn/hlv-eriksson-du-doan-tuyen-vn-se-da-bai-malaysia-20181209114613393.htm)
+
+VFND_Ac_Real_102: [Xuân Trường háo hức thi đấu trước 80.000 khán giả Malaysia](https://thethao.tuoitre.vn/xuan-truong-hao-huc-thi-dau-truoc-80-000-khan-gia-malaysia-20181209124745227.htm)
+
+VFND_Ac_Real_103: [Mua vé trận chung kết: chen lấn, giẫm đạp, hỗn loạn, ngất xỉu](https://thethao.tuoitre.vn/mua-ve-tran-chung-ket-chen-lan-giam-dap-hon-loan-ngat-xiu-20181209090004845.htm)
+
+VFND_Ac_Real_104: [Ông Lê Hoài Anh tiếp tục giữ chức tổng thư ký VFF khóa 8](https://thethao.tuoitre.vn/ong-le-hoai-anh-tiep-tuc-giu-chuc-tong-thu-ky-vff-khoa-8-20181209001626608.htm)
+
+VFND_Ac_Real_105: [Đánh bại Djokovic, Zverev lần đầu vô địch Giải quần vợt ATP Finals](https://thethao.tuoitre.vn/danh-bai-dokovic-zverev-lan-dau-vo-dich-giai-quan-vot-atp-finals-20181119055342346.htm)
+
+VFND_Ac_Real_106: ['Hoa hậu quần vợt' Bouchard trổ tài đá bóng](https://thethao.tuoitre.vn/hoa-hau-quan-vot-bouchard-tro-tai-da-bong-2018112221552504.htm)
+
+VFND_Ac_Real_107: [“Quần vợt VN coi chừng lạc đường như Thái Lan”](https://thethao.tuoitre.vn/quan-vot-vn-coi-chung-lac-duong-nhu-thai-lan-821535.htm)
+
+VFND_Ac_Real_108: [Federer đụng Djokovic ở bán kết Giải quần vợt Paris Masters](https://thethao.tuoitre.vn/federer-dung-dokovic-o-ban-ket-giai-quan-vot-paris-masters-20181103062334363.htm)
+
+VFND_Ac_Real_109: [Nadal gặp Tsitsipas ở chung kết Giải quần vợt Barcelona mở rộng](https://thethao.tuoitre.vn/nadal-gap-tsitsipas-o-chung-ket-giai-quan-vot-barcelona-mo-rong-1439844.htm)
+
+VFND_Ac_Real_110: [Khởi tố cặp “nữ quái” chuyên cung cấp ma túy, thuốc lắc](https://dantri.com.vn/phap-luat/khoi-to-cap-nu-quai-chuyen-cung-cap-ma-tuy-thuoc-lac-20181209204749864.htm)
+
+VFND_Ac_Real_111: [Dùng dao đâm chết người vì xích mích lúc đổ xăng](https://dantri.com.vn/phap-luat/dung-dao-dam-chet-nguoi-vi-xich-mich-luc-do-xang-20181209202623487.htm)
+
+VFND_Ac_Real_112: [Quên khóa ô tô, nữ tài xế bị "khoắng" sạch tài sản](https://dantri.com.vn/phap-luat/quen-khoa-o-to-nu-tai-xe-bi-khoang-sach-tai-san-20181209143646284.htm)
+
+VFND_Ac_Real_113: [Lừa bán bé gái 14 tuổi, bắt luôn người giải cứu để đòi tiền chuộc](https://dantri.com.vn/phap-luat/lua-ban-be-gai-14-tuoi-bat-luon-nguoi-giai-cuu-de-doi-tien-chuoc-20181209122608572.htm)
+
+VFND_Ac_Real_114: [Đòi nợ 60 triệu không được, ép nạn nhân viết giấy vay... 400 triệu](https://dantri.com.vn/phap-luat/doi-no-60-trieu-khong-duoc-ep-nan-nhan-viet-giay-vay-400-trieu-20181209083854909.htm)
+
+VFND_Ac_Real_115: [Vụ chạy thận chết người: Cựu giám đốc bệnh viện bị truy tố từ 3-12 năm tù](https://dantri.com.vn/phap-luat/vu-chay-than-chet-nguoi-cuu-giam-doc-benh-vien-bi-truy-to-tu-3-12-nam-tu-20181209083714518.htm)
+
+VFND_Ac_Real_116: [Sau ly hôn vợ, tình nhân đòi chia tay nên ra tay sát hại](https://dantri.com.vn/phap-luat/sau-ly-hon-vo-tinh-nhan-doi-chia-tay-nen-ra-tay-sat-hai-20181209082922084.htm)
+
+VFND_Ac_Real_117: [Đuổi theo kẻ ném chất bẩn, chủ nhà bị gãy chân](https://dantri.com.vn/phap-luat/duoi-theo-ke-nem-chat-ban-chu-nha-bi-gay-chan-2018120908113454.htm)
+
+VFND_Ac_Real_118: [Đối tượng cuối cùng trong vụ trốn khỏi trại tạm giam Kiên Giang đã bị bắt](https://dantri.com.vn/phap-luat/doi-tuong-cuoi-cung-trong-vu-tron-khoi-trai-tam-giam-kien-giang-da-bi-bat-20181209081958807.htm)
+
+VFND_Ac_Real_119: [“Siêu máy bay” A350 sẽ chở CĐV Việt Nam đi Malaysia cổ vũ chung kết lượt đi](https://dantri.com.vn/the-thao/sieu-may-bay-a350-se-cho-cdv-viet-nam-di-malaysia-co-vu-chung-ket-luot-di-20181208082125017.htm)
+
+VFND_Ac_Real_120: [Thưởng 20.000 USD cho đội tuyển cờ vua Việt Nam tại Olympiad 2018](https://dantri.com.vn/the-thao/thuong-20000-usd-cho-doi-tuyen-co-vua-viet-nam-tai-olympiad-2018-20181017151513152.htm)
+
+VFND_Ac_Real_121: [Trường Sơn giành HCV tại giải cờ vua đồng đội thế giới 2018](https://dantri.com.vn/the-thao/truong-son-gianh-hcv-tai-giai-co-vua-dong-doi-the-gioi-2018-20181005221940293.htm)
+
+VFND_Ac_Real_122: [Chuyện về chàng sinh viên Luật - Kiện tướng Lê Tuấn Minh](https://dantri.com.vn/the-thao/chuyen-ve-chang-sinh-vien-luat-kien-tuong-le-tuan-minh-20180320085855246.htm)
+
+VFND_Ac_Real_123: [Tiền đạo Malaysia: “Tôi đã có cách vượt qua hàng thủ đội tuyển Việt Nam”](https://dantri.com.vn/the-thao/tien-dao-malaysia-toi-da-co-cach-vuot-qua-hang-thu-doi-tuyen-viet-nam-20181209191129676.htm)
+
