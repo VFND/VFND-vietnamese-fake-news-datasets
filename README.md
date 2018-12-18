@@ -6,7 +6,7 @@ Nếu muốn sử dụng, mời các bạn vui lòng liên hệ đến email: th
 
 ## 1. Giới thiệu tổng quan và các chủ đề tin tức
 
-Cấu trúc tên của 1 file bao gồm: VFND_{Source}\_{Label}\_{Number}. Trong đó: {Source}: Ac - nguồn bài báo từ các trang tin tức; Fb - Nguồn từ các bài viết của người dùng hoặc fanpage trên Facebook có tính chất như nguồn tin tức. {Label} thuộc tập {“Fake”, “Real”}
+Cấu trúc tên của 1 file bao gồm: ```VFND_{Source}_{Label}_{Number}.json```. Trong đó: ```{Source}```: ```Ac``` - nguồn bài báo từ các trang tin tức; ```Fb``` - Nguồn từ các bài viết của người dùng hoặc fanpage trên Facebook có tính chất như nguồn tin tức. ```{Label}``` thuộc tập ```{“Fake”, “Real”}```
 
 ### 1.1 Giới hạn các chủ đề tin tức trong tập dữ liệu:
 
