@@ -40,6 +40,8 @@ Cấu trúc của thư mục cũng tương tự như cấu trúc của _Article_
 
 ### 2.4. [_Dictionaries_](): Một số bộ từ điển hỗ trợ
 
+### 2.5. [_CSV_](): Các file CSV được trích xuất từ bộ dữ liệu
+
 
 ## 3. Các thư viện được sử dụng
 
