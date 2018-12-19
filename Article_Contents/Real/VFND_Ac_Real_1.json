@@ -68,5 +68,5 @@
   "publish_date": {
     "$date": null
   },
-  "source": "https://news.zing.vn"
+  "source_domain": "https://news.zing.vn"
 }
