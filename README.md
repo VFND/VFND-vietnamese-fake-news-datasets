@@ -50,10 +50,13 @@ Cấu trúc của thư mục cũng tương tự như cấu trúc của _Article_
 3. Fake UserAgent
 
 ## 4. Các tác giả
-
+## Giai đoạn 2: Từ 02/2019 đến nay
+* **Hồ Quang Thanh** - *Bach Khoa HCM - CS student* - [github](https://github.com/thanhhocse96)
+## Giai đoạn 1: Từ 08/2018 đến 01/2019
 * **Phạm Minh Ninh** - *Bach Khoa HCM - CS student* - [github](https://github.com/ninh-pm-se) - [facebook](https://www.facebook.com/minhninh.pham)
 * **Hồ Quang Thanh** - *Bach Khoa HCM - CS student* - [github](https://github.com/thanhhocse96)
 
 Xem thêm trong [contributors](https://github.com/your/project/contributors).
 
 # 5. Tham khảo thêm
+# 6. Các thay đổi trong dự án 
