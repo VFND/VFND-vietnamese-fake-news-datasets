@@ -1,5 +1,7 @@
 # VIETNAMESE FAKE NEWS DATASET - VFND
 
+[![DOI](https://zenodo.org/badge/134866350.svg)](https://zenodo.org/badge/latestdoi/134866350)
+
 VFND là bộ dataset về các tin tức giả bằng ngôn ngữ tiếng Việt được tập hợp trong khoảng thời gian từ 2017 đến nay, các tin tức được đưa vào đây được phân loại thật giả dựa trên một số nguồn tin, tham chiếu chéo đến các nguồn tin được dẫn hoặc được phân loại bởi cộng đồng. 
 
 Nếu muốn sử dụng, mời các bạn vui lòng liên hệ đến email: thanh.hoquangcse96@gmail.com, và vui lòng dẫn nguồn của repo này trong bài viết của bạn:
