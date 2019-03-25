@@ -63,4 +63,19 @@ Cấu trúc của thư mục cũng tương tự như cấu trúc của _Article_
 Xem thêm trong [contributors](https://github.com/your/project/contributors).
 
 # 5. Tham khảo thêm
-# 6. Các thay đổi trong dự án 
+# 6. Dẫn nguồn BibTex:
+```
+@misc{ho_quang_thanh_2019_2578917,
+  author       = {Ho Quang Thanh and
+                  ninh-pm-se},
+  title        = {{thanhhocse96/vfnd-vietnamese-fake-news-datasets: 
+                   Tập hợp các bài báo tiếng Việt và các bài post
+                   Facebook phân loại 2 nhãn Thật \& Giả (228 bài)}},
+  month        = feb,
+  year         = 2019,
+  doi          = {10.5281/zenodo.2578917},
+  url          = {https://doi.org/10.5281/zenodo.2578917}
+}
+```
+
+# 7. Các thay đổi trong dự án 
