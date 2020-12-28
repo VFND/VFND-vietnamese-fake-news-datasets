@@ -25,7 +25,7 @@ Trong đó
 
 2. Các chủ đề mà bộ dataset tập trung là: Thể thao, Văn hóa, Xã hội, Kinh tế, Pháp luật. Các tin tức sẽ được kiểm tra chéo về nguồn gốc, nội dung, sự kiện để xác định thật và giả
 
-3. Một số chú ý: Một số tin tức sẽ được nhóm mặc định là tin giả: tin tức có tính chất mê tín, dị đoan;
+3. Một số chú ý: Một số tin tức sẽ được nhóm mặc định là tin giả: tin tức có tính chất mê tín, dị đoan; tin tức không xác nhận được nguồn tin; tin tức dựa trên những nguồn tin, kiến thức, học thuyết, luận thuyết được khoa học công nhận là sai lầm
 
 ### 1.2. Cách thức lấy dữ liệu
 
