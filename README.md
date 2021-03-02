@@ -2,11 +2,13 @@
 
 [![DOI](https://zenodo.org/badge/134866350.svg)](https://zenodo.org/badge/latestdoi/134866350) [![Hits-of-Code](https://hitsofcode.com/github/thanhhocse96/vfnd-vietnamese-fake-news-datasets)](https://hitsofcode.com/view/github/thanhhocse96/vfnd-vietnamese-fake-news-datasets) ![GitHub contributors](https://img.shields.io/github/contributors/thanhhocse96/vfnd-vietnamese-fake-news-datasets.svg) ![GitHub](https://img.shields.io/github/license/thanhhocse96/vfnd-vietnamese-fake-news-datasets.svg)
 
-VFND là bộ dataset về các tin tức giả bằng ngôn ngữ tiếng Việt được tập hợp trong khoảng thời gian từ 2017 đến nay, các tin tức được đưa vào đây được phân loại thật giả dựa trên một số nguồn tin, tham chiếu chéo đến các nguồn tin được dẫn hoặc được phân loại bởi cộng đồng.
+VFND là bộ dataset về các tin tức giả bằng ngôn ngữ tiếng Việt được tập hợp trong khoảng thời gian từ 2017 đến 2019 (năm hoàn thành luận văn của các tác giả), các tin tức được đưa vào đây được phân loại thật giả dựa trên một số nguồn tin, tham chiếu chéo đến các nguồn tin được dẫn hoặc được phân loại bởi cộng đồng.
 
 Nếu muốn sử dụng, mời các bạn vui lòng liên hệ đến email: thanh.hoquangcse96@gmail.com, và vui lòng dẫn nguồn của repo này trong bài viết của bạn:
 
 `[1]Ho Quang Thanh and ninh-pm-se, “thanhhocse96/vfnd-vietnamese-fake-news-datasets: Tập hợp các bài báo tiếng Việt và các bài post Facebook phân loại 2 nhãn Thật & Giả (228 bài)”. Zenodo, 27-Feb-2019.`
+
+Nhằm xây dựng bộ dataset chi tiết hơn (có thể gọi là version 2) về tin tức giả Tiếng Việt, chúng tôi mong các bạn có thể báo cáo các tin tức giả các bạn vô tình đọc được qua đường dẫn sau [http://bit.ly/fake-news-report-zefro](http://bit.ly/fake-news-report-zefro) (Khi các bạn báo cáo, vui lòng dùng thêm link wayback machine để chúng tôi có thể cập nhật nếu như trang tin giả được các cơ quan hữu trách dọn dẹp). Các bạn có thể tham khảo một số content về tin tức giả được chúng tôi cập nhật trên [ZeFro blog](https://zefro.wordpress.com/portfolio/fake-news-detection-nhan-dang-tin-tuc-gia/)
 
 ## 1. Giới thiệu tổng quan và các chủ đề tin tức
 
