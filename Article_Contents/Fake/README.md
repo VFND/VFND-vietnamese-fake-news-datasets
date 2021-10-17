@@ -203,3 +203,9 @@ VFND_Ac_Fake_98: [Người cha thú tính mang bệnh HIV vẫn c.ưỡng h.iế
 VFND_Ac_Fake_99: [Chữa hết bệnh câm cho vợ, người chồng cay đắng nhìn vợ ra đi tìm cuộc sống mới vì lý do tưởng chỉ có trong phim](http://tinvn.info/chua-het-benh-cam-cho-vo-nguoi-chong-cay-dang-nhin-vo-ra-di-tim-cuoc-song-moi-vi-ly-do-tuong-chi-co-trong-phim.html)
 
 VFND_Ac_Fake_100: [YÊU RÂU XANH (P51): Câu chuyện động trời sau tấm ri đô mỏng](https://www.vietgiaitri.com/phap-luat/201304/yeu-rau-xanh-p51-cau-chuyen-dong-troi-sau-tam-ri-do-mong-735408/)
+
+VFND_Ac_Fake_101: [NÓNG : xử phạt 10 đối tượng "bom" hàng "Lợi dụng lòng tốt của các chiến sĩ" Khai bom hàng cho vui](https://mangxahoi.net/nong-xu-phat-10-doi-tuong-bom-hang-loi-dung-long-tot-cua-cac-chien-si-khai-bom-hang-cho-vui/)
+
+VFND_Ac_Fake_102: [Chính thức: Chính sách một vợ được lấy nhiều chồng để giải quyết tình trạng dư thừa nam giới.](http://anninh247.xyz/chinh-thuc-chinh-sach-mot-vo-duoc-lay-nhieu-chong-de-giai-quyet-tinh-trang-du-thua-nam-gioi/)
+
+VFND_Ac_Fake_103: [Tập đoàn lớn mạnh nhất UAE sản xuất, xuất khẩu vaccine COVID-19 mang tên Hayat-Vax](https://web.archive.org/web/20210910162234/https://cand.com.vn/y-te/tap-doan-lon-manh-nhat-uae-san-xuat-xuat-khau-vaccine-covid-19-mang-ten-hayat-vax-i624743/)
