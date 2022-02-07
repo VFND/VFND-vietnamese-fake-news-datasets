@@ -250,3 +250,4 @@ VFND_Ac_Real_122: [Chuyện về chàng sinh viên Luật - Kiện tướng Lê 
 
 VFND_Ac_Real_123: [Tiền đạo Malaysia: “Tôi đã có cách vượt qua hàng thủ đội tuyển Việt Nam”](https://dantri.com.vn/the-thao/tien-dao-malaysia-toi-da-co-cach-vuot-qua-hang-thu-doi-tuyen-viet-nam-20181209191129676.htm)
 
+VFND_Ac_Real_124: [WHO không chấp nhận kit test của Công ty Việt Á](https://thanhnien.vn/who-khong-chap-nhan-kit-test-cua-cong-ty-viet-a-post1413569.html)

@@ -209,3 +209,6 @@ VFND_Ac_Fake_101: [NÓNG : xử phạt 10 đối tượng "bom" hàng "Lợi d�
 VFND_Ac_Fake_102: [Chính thức: Chính sách một vợ được lấy nhiều chồng để giải quyết tình trạng dư thừa nam giới.](http://anninh247.xyz/chinh-thuc-chinh-sach-mot-vo-duoc-lay-nhieu-chong-de-giai-quyet-tinh-trang-du-thua-nam-gioi/)
 
 VFND_Ac_Fake_103: [Tập đoàn lớn mạnh nhất UAE sản xuất, xuất khẩu vaccine COVID-19 mang tên Hayat-Vax](https://web.archive.org/web/20210910162234/https://cand.com.vn/y-te/tap-doan-lon-manh-nhat-uae-san-xuat-xuat-khau-vaccine-covid-19-mang-ten-hayat-vax-i624743/)
+
+VFND_Ac_Fake_104: [Bộ KIT xét nghiệm Covid -19 của Việt Nam sản xuất vừa được Tổ chức Y tế Thế giới chấp thuận](https://web.archive.org/web/20210506030751/https://www.most.gov.vn/vn/tin-tuc/17701/bo-kit-xet-nghiem-covid--19-cua-viet-nam-san-xuat-vua-duoc-to-chuc-y-te-the-gioi-chap-thuan.aspx) - Lý do xem VFND_Ac_Real_124
+
