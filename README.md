@@ -73,7 +73,7 @@ Cấu trúc của thư mục cũng tương tự như cấu trúc của _Article_
     <td align="center"><a href="https://github.com/thanhhocse96"><img src="https://github.com/thanhhocse96.png" width="100px;" alt="Hồ Quang Thanh"/>
       <br />
       <sub>
-        <b>Hồ Quang Thanh</b>
+        <b>Thanh, H</b>
       </sub>
       </a>
       <br />
@@ -91,7 +91,7 @@ Cấu trúc của thư mục cũng tương tự như cấu trúc của _Article_
     <td align="center"><a href="https://www.facebook.com/minhninh.pham"><img src="https://github.com/ninh-pm-se.png" width="100px;" alt="Phạm Minh Ninh"/>
       <br />
       <sub>
-        <b>Phạm Minh Ninh</b>
+        <b>Ninh, P</b>
       </sub>
       </a>
       <br />
@@ -102,7 +102,7 @@ Cấu trúc của thư mục cũng tương tự như cấu trúc của _Article_
     <td align="center"><a href="https://github.com/thanhhocse96"><img src="https://github.com/thanhhocse96.png" width="100px;" alt="Hồ Quang Thanh"/>
       <br />
       <sub>
-        <b>Hồ Quang Thanh</b>
+        <b>Thanh, H</b>
       </sub>
       </a>
       <br />
