@@ -10,4 +10,4 @@ VFND_Ac_Pro_Russia_3: [Tổng thống Putin tố 'lính đánh thuê' ở Ukrain
 
 VFND_Ac_Pro_Russia_4: [Putin tuyên bố Ukraine bắt dân thường làm 'lá chắn sống'](https://danviet.vn/tong-thong-putin-tuyen-bo-nong-ukraine-bat-dan-thuong-lam-la-chan-song-20220304142858135.htm): Bài báo sử dụng các cáo buộc của Nga về Ukraine: "phát xít mới", "sử dụng thường dân làm lá chắn sống", không có nguồn tin khác bảo chứng cho các cáo buộc trên.
 
-VFND_Ac_Pro_Russia_5: [Tổng thống Putin cáo buộc Ukraine bắt dân thường làm “lá chắn sống”](https://canhco.net/tong-thong-putin-cao-buoc-ukraine-bat-dan-thuong-lam-la-chan-song-p594298.html): Bài viết lấy nội dung từ 1 trang tin của Nga: tass.com với nội dung tương tự
+VFND_Ac_Pro_Russia_5: [Tổng thống Putin cáo buộc Ukraine bắt dân thường làm “lá chắn sống”](https://canhco.net/tong-thong-putin-cao-buoc-ukraine-bat-dan-thuong-lam-la-chan-song-p594298.html): Bài viết lấy nội dung từ 1 trang tin của Nga: tass.com với nội dung tương tự, với các cáo buộc như trên
