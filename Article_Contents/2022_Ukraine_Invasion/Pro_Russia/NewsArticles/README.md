@@ -6,3 +6,6 @@ VFND_Ac_Pro_Russia_1: [Từ xung đột Nga- Ukraine rút ra 5 bài học sâu s
 
 VFND_Ac_Pro_Russia_2: [Chiến sự Nga-Ukraine: Dùng đòn quân sự giải quyết vấn đề chính trị](https://plo.vn/quoc-te/chien-su-ngaukraine-dung-don-quan-su-giai-quyet-van-de-chinh-tri-1045735.html): Bài báo chỉ ra bản chất của cuộc xâm lược Ukraine: "thay thế ban lãnh đạo (Ukraine) thân Nga - một nước Ukraine trung lập"
 
+VFND_Ac_Pro_Russia_3: [Tổng thống Putin tố 'lính đánh thuê' ở Ukraine dùng dân thường làm lá chắn sống](https://baomoi.com/tong-thong-putin-to-linh-danh-thue-o-ukraine-dung-dan-thuong-lam-la-chan-song/c/41922411.epi): Bài báo sử dụng các cáo buộc của Nga: "lực lượng đánh thuê Ukraine sử dụng thường dân làm lá chắn sống", không dẫn các nguồn tin khác để củng cố cho cáo buộc trên
+
+VFND_Ac_Pro_Russia_3: [Putin tuyên bố Ukraine bắt dân thường làm 'lá chắn sống'](https://danviet.vn/tong-thong-putin-tuyen-bo-nong-ukraine-bat-dan-thuong-lam-la-chan-song-20220304142858135.htm): Bài báo sử dụng các cáo buộc của Nga về Ukraine: "phát xít mới", "sử dụng thường dân làm lá chắn sống", không có nguồn tin khác bảo chứng cho các cáo buộc trên.
