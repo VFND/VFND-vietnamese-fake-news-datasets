@@ -10,7 +10,7 @@ Thư mục này tập hợp một số tin tức tiếng Việt, dưới một s
 
 + __Russian_POV__: các tin tức phản ảnh góc nhìn từ người Nga của các hãng tin tức độc lập, các cá nhân độc lập
 
-+ __Neutral__: các tin tức mang tính trung lập, nguồn tin có thể  từ những người dân trong chiến sự, các hãng tin độc lập với nhà nước, không được các nhà nước tài trợ
++ __Neutral__: các tin tức mang tính trung lập, nguồn tin có thể  từ những người dân trong chiến sự, các hãng tin độc lập với nhà nước, không được các nhà nước tài trợ hoặc các tin tức bài viết với nội dung tường thuật các sự kiện trong giai đoạn này
 
 + __Ukrainian_POV__: các tin tức, phỏng vấn từ góc nhìn của chính phủ và nhân dân Ukraine
 
