@@ -113,7 +113,7 @@ Cấu trúc của thư mục cũng tương tự như cấu trúc của _Article_
     <td align="center"><a href="https://github.com/tvc12"><img src="https://github.com/tvc12.png" width="100px;" alt="Vi Chí Thiện"/>
       <br />
       <sub>
-        <b>Vi Chí Thiện (Readme)</b>
+        <b>Vi Chí Thiện (Edited Readme - WTF?)</b>
       </sub>
       </a>
       <br />
