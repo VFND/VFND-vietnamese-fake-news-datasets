@@ -41,13 +41,6 @@ Nhóm sử dụng thư viện: [news-please](https://github.com/fhamborg/news-pl
 
 Thư mục được cấu trúc theo từng label của tin tức: `Fake, Real, Unclarified`, trong đó dữ liệu trong `Unclarified` sẽ được phân loại theo `Fake, Real` sau khi được xác nhận.
 
-File `stance.csv` sẽ chứa stance (lập trường) của tin tức trong thư mục. Mục đích: phục vụ cho Stance Detection. Nhóm tham khảo Stance Detection từ:
-
-1. [FakeNewsChallenge](http://www.fakenewschallenge.org/)
-2. [Emergent: a novel data-set for stance classification](http://aclweb.org/anthology/N/N16/N16-1138.pdf)
-3. [Stance Detection with Bidirectional Conditional Encoding](https://arxiv.org/abs/1606.05464)
-   Cấu trúc của file `stance.csv` bao gồm 2 trường: `filename` - tên của các file trong tập dữ liệu về tin tức - và `stance` - stance của dữ liệu, bao gồm 4 nhãn: `agrees, disagrees, discusses, unrelated` như [FakeNewsChallenge](http://www.fakenewschallenge.org/)
-
 ### 2.2. [_Facebook_](Facebook): tập hợp các facebook post đã được phân loại
 
 Cấu trúc của thư mục cũng tương tự như cấu trúc của _Article_\__Contents_, tuy nhiên, trong thư mục này nhóm tập trung vào những post được cộng đồng xác định là giả (Fake) hoặc chưa xác định thật giả (Unclarified)
