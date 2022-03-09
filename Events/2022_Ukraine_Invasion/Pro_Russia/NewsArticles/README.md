@@ -15,3 +15,5 @@ VFND_Ac_Pro_Russia_5: [Tổng thống Putin cáo buộc Ukraine bắt dân thư�
 VFND_Ac_Pro_Russia_6: [Có tin Tổng thống Ukraine Zelensky đang trốn trong Đại sứ quán Mỹ ở Ba Lan](https://vietgiaitri.com/co-tin-tong-thong-ukraine-zelensky-dang-tron-trong-dai-su-quan-my-o-ba-lan-20220306i6342396/): Thông tin tổng thống Zelensky "bỏ trốn"
 
 VFND_Ac_Pro_Russia_7: [Tổng thống Ukraine Zelensky đang "trốn" trong Đại sứ quán Mỹ ở Ba Lan](https://danviet.vn/co-tin-tong-thong-ukraine-zelensky-dang-tron-trong-dai-su-quan-my-o-ba-lan-20220305092804117.htm) Tương tự với VFND_Ac_Pro_Russia_6
+
+VFND_Ac_Pro_Russia_8: [Nga tố Mỹ 'bao phủ' Ukraine bằng mạng lưới 30 phòng thí nghiệm sinh học](https://tienphong.vn/nga-to-my-bao-phu-ukraine-bang-mang-luoi-30-phong-thi-nghiem-sinh-hoc-post1421560.tpo): Cáo buộc từ phía Nga.
