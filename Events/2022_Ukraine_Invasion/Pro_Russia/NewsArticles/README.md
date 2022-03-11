@@ -17,3 +17,31 @@ VFND_Ac_Pro_Russia_6: [Có tin Tổng thống Ukraine Zelensky đang trốn tron
 VFND_Ac_Pro_Russia_7: [Tổng thống Ukraine Zelensky đang "trốn" trong Đại sứ quán Mỹ ở Ba Lan](https://danviet.vn/co-tin-tong-thong-ukraine-zelensky-dang-tron-trong-dai-su-quan-my-o-ba-lan-20220305092804117.htm) Tương tự với VFND_Ac_Pro_Russia_6
 
 VFND_Ac_Pro_Russia_8: [Nga tố Mỹ 'bao phủ' Ukraine bằng mạng lưới 30 phòng thí nghiệm sinh học](https://tienphong.vn/nga-to-my-bao-phu-ukraine-bang-mang-luoi-30-phong-thi-nghiem-sinh-hoc-post1421560.tpo): Cáo buộc từ phía Nga.
+
+VFND_Ac_Pro_Russia_9
+
+VFND_Ac_Pro_Russia_10
+
+VFND_Ac_Pro_Russia_11
+
+VFND_Ac_Pro_Russia_12
+
+VFND_Ac_Pro_Russia_13
+
+VFND_Ac_Pro_Russia_14
+
+VFND_Ac_Pro_Russia_15
+
+VFND_Ac_Pro_Russia_16
+
+VFND_Ac_Pro_Russia_17
+
+VFND_Ac_Pro_Russia_18
+
+VFND_Ac_Pro_Russia_19
+
+VFND_Ac_Pro_Russia_20
+
+VFND_Ac_Pro_Russia_21
+
+VFND_Ac_Pro_Russia_22
