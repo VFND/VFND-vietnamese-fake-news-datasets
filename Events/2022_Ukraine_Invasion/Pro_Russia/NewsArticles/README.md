@@ -45,3 +45,11 @@ VFND_Ac_Pro_Russia_20
 VFND_Ac_Pro_Russia_21
 
 VFND_Ac_Pro_Russia_22
+
+VFND_Ac_Pro_Russia_23
+
+VFND_Ac_Pro_Russia_24
+
+VFND_Ac_Pro_Russia_25
+
+VFND_Ac_Pro_Russia_26: [Ông Zelensky lên tiếng về vụ tấn công bệnh viện ở Mariupol](https://baomoi.com/ong-zelensky-len-tieng-ve-vu-tan-cong-benh-vien-o-mariupol/c/41977130.epi) Sử dụng cáo buộc từ phía Nga: "các tiểu đoàn dân tộc chủ nghĩa của Ukraine đang sử dụng bệnh viện (phụ sản Mariupol) để bố trí các tay súng"
