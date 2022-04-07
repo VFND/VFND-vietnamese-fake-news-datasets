@@ -213,3 +213,6 @@ VFND_Ac_Fake_103: [Tập đoàn lớn mạnh nhất UAE sản xuất, xuất kh�
 VFND_Ac_Fake_104: [Bộ KIT xét nghiệm Covid -19 của Việt Nam sản xuất vừa được Tổ chức Y tế Thế giới chấp thuận](https://web.archive.org/web/20210506030751/https://www.most.gov.vn/vn/tin-tuc/17701/bo-kit-xet-nghiem-covid--19-cua-viet-nam-san-xuat-vua-duoc-to-chuc-y-te-the-gioi-chap-thuan.aspx) - Lý do xem VFND_Ac_Real_124
 
 VFND_Ac_Fake_105: [Pravda: Đặc nhiệm Nga tiêu diệt tay súng bắn tỉa "giỏi nhất thế giới" ở Ukraine](https://doanhnghiepvn.vn/quoc-te/pravda-dac-nhiem-nga-tieu-diet-tay-sung-ban-tia-gioi-nhat-the-gioi-o-ukraine/20220316033244445) - Người được đề cập đến trong bài viết vẫn còn sống, nguồn tin không được kiểm chứng, sai về nguồn thông tin 
+
+VFND_Ac_Fake_106: [Có tin Tổng thống Ukraine Zelensky đang trốn trong Đại sứ quán Mỹ ở Ba Lan](https://vietgiaitri.com/co-tin-tong-thong-ukraine-zelensky-dang-tron-trong-dai-su-quan-my-o-ba-lan-20220306i6342396/) - Nội dung tường thuật lại một sự kiện không có thật trong cuộc xâm lược Ukraine của Nga: "Tổng thống Ukraine bỏ trốn sang Ba Lan"
+
