@@ -81,3 +81,11 @@ VFND_Ac_Pro_Russia_38: [Cựu Tổng thống Nga lên tiếng vụ người thi�
 VFND_Ac_Pro_Russia_39: [CCTV: Nga 2 lần yêu cầu HĐBA họp khẩn nhưng bất thành, sẽ nộp bằng chứng "thảm sát Bucha"](https://soha.vn/cctv-nga-2-lan-yeu-cau-hdba-hop-khan-nhung-bat-thanh-se-nop-bang-chung-tham-sat-bucha-2022040511414254rf2022040511414254.htm)
 
 VFND_Ac_Pro_Russia_40: ["Thảm sát Bucha": CNN đăng tải loạt ảnh bằng chứng từ vệ tinh - Điện Kremlin nói gì?](https://soha.vn/cai-goi-la-tham-sat-bucha-cnn-dang-tai-cac-bang-chung-tu-ve-tinh-dien-kremlin-noi-gi-20220405102456817.htm) - Bài viết không phân biệt giữa nguồn tin độc lập và nguồn tin bị kiểm soát, cố ý định hướng người đọc có cái nhìn sai lệch về các nguồn tin độc lập
+
+VFND_Ac_Pro_Russia_41:
+
+VFND_Ac_Pro_Russia_42: [N̲gh̲i v̲ấn U̲k̲r̲a̲i̲n̲e ᴛ̲ự ᴛh̲ả̲m s̲á̲ᴛ d̲â̲n củ̲a̲ m̲ì̲n̲h: G̲i̲ới lãn̲h̲ đ̲ạo ph̲ư̲ơng T̲â̲y số̲c nặn̲g - N̲ga đ̲ề n̲gh̲ị HĐBA LH̲Q h̲ọp k̲h̲ẩ̲n](http://anninh247.xyz/n%cc%b2gh%cc%b2i-v%cc%b2an-u%cc%b2k%cc%b2r%cc%b2a%cc%b2i%cc%b2n%cc%b2e-%e1%b4%9b%cc%b2u-%e1%b4%9bh%cc%b2a%cc%b2m-s%cc%b2a%cc%b2%e1%b4%9b-d%cc%b2a%cc%b2n-cu%cc%b2a%cc%b2-m%cc%b2i%cc%b2n%cc%b2h-g%cc%b2/)
+
+VFND_Ac_Pro_Russia_43: [Cả tiểu đoàn thủy quân lục ch̲i̲ến 503 Uƙrаι̇пе ra ᵭα̂̀υ hὰпց Nga tại Mariupol](http://anninh247.xyz/ca-tieu-doan-thuy-quan-luc-ch%cc%b2i%cc%b2en-503-u%c6%99r%d0%b0%ce%b9%cc%87%d0%bf%d0%b5-ra-%e1%b5%ad%ce%b1%cc%82%cf%85-h%ce%b1%d0%bf%d6%81-nga-tai-mariupol/)
+
+VFND_Ac_Pro_Russia_44: [“Thảm sát Bucha”: Giới lãnh đạo phương Tây sốc nặng - Nga đề nghị HĐBA LHQ họp khẩn](https://we2045.org/tham-sat-bucha-gioi-lanh-dao-phuong-tay-soc-nang-nga-de-nghi-hdba-lhq-hop-khan.html/)
