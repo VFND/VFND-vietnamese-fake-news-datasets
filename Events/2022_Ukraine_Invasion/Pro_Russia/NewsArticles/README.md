@@ -53,3 +53,31 @@ VFND_Ac_Pro_Russia_24
 VFND_Ac_Pro_Russia_25
 
 VFND_Ac_Pro_Russia_26: [Ông Zelensky lên tiếng về vụ tấn công bệnh viện ở Mariupol](https://baomoi.com/ong-zelensky-len-tieng-ve-vu-tan-cong-benh-vien-o-mariupol/c/41977130.epi) Sử dụng cáo buộc từ phía Nga: "các tiểu đoàn dân tộc chủ nghĩa của Ukraine đang sử dụng bệnh viện (phụ sản Mariupol) để bố trí các tay súng"
+
+VFND_Ac_Pro_Russia_27:
+
+VFND_Ac_Pro_Russia_28:
+
+VFND_Ac_Pro_Russia_29:
+
+VFND_Ac_Pro_Russia_30:
+
+VFND_Ac_Pro_Russia_31:
+
+VFND_Ac_Pro_Russia_32:
+
+VFND_Ac_Pro_Russia_33:
+
+VFND_Ac_Pro_Russia_34:
+
+VFND_Ac_Pro_Russia_35: [Phương Tây cứng giọng sau “thảm sát Bucha”, Nga tung "bằng chứng thực nghiệm"](https://nld.com.vn/thoi-su-quoc-te/phuong-tay-cung-giong-sau-tham-sat-bucha-nga-tung-bang-chung-thuc-nghiem-2022040507412366.htm) - Nhấn mạnh các tuyên bố của phía Nga về các cáo buộc binh lính Nga tham gia sự kiện thảm sát tại thành phố Bucha, nhưng không có các bằng chứng khác hỗ trợ về thông tin
+
+VFND_Ac_Pro_Russia_36: ['Thảm sát Bucha' và những câu hỏi](https://tuoitre.vn/tham-sat-bucha-va-nhung-cau-hoi-2022040607523053.htm)
+
+VFND_Ac_Pro_Russia_37: [Ukraine tìm thấy thêm thi thể ở thị trấn Bucha](https://vnexpress.net/ukraine-tim-thay-them-thi-the-o-thi-tran-bucha-4447774.html) - Khác với tiêu đề, nội dung tiếp tục nhấn mạnh vào các tuyên bố từ phía Nga, nhấn mạnh các mục tiêu từ phía Nga trong cuộc xâm lược: "phi quân sự hóa, phi phát xít hóa"
+
+VFND_Ac_Pro_Russia_38: [Cựu Tổng thống Nga lên tiếng vụ người thiệt mạng ở thị trấn Ukraine](https://vietnamnet.vn/cuu-tong-thong-nga-len-tieng-ve-vu-viec-o-bucha-2006019.html)
+
+VFND_Ac_Pro_Russia_39: [CCTV: Nga 2 lần yêu cầu HĐBA họp khẩn nhưng bất thành, sẽ nộp bằng chứng "thảm sát Bucha"](https://soha.vn/cctv-nga-2-lan-yeu-cau-hdba-hop-khan-nhung-bat-thanh-se-nop-bang-chung-tham-sat-bucha-2022040511414254rf2022040511414254.htm)
+
+VFND_Ac_Pro_Russia_40: ["Thảm sát Bucha": CNN đăng tải loạt ảnh bằng chứng từ vệ tinh - Điện Kremlin nói gì?](https://soha.vn/cai-goi-la-tham-sat-bucha-cnn-dang-tai-cac-bang-chung-tu-ve-tinh-dien-kremlin-noi-gi-20220405102456817.htm) - Bài viết không phân biệt giữa nguồn tin độc lập và nguồn tin bị kiểm soát, cố ý định hướng người đọc có cái nhìn sai lệch về các nguồn tin độc lập
