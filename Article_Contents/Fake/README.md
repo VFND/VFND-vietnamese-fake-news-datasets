@@ -216,3 +216,5 @@ VFND_Ac_Fake_105: [Pravda: Đặc nhiệm Nga tiêu diệt tay súng bắn tỉa
 
 VFND_Ac_Fake_106: [Có tin Tổng thống Ukraine Zelensky đang trốn trong Đại sứ quán Mỹ ở Ba Lan](https://vietgiaitri.com/co-tin-tong-thong-ukraine-zelensky-dang-tron-trong-dai-su-quan-my-o-ba-lan-20220306i6342396/) - Nội dung tường thuật lại một sự kiện không có thật trong cuộc xâm lược Ukraine của Nga: "Tổng thống Ukraine bỏ trốn sang Ba Lan"
 
+VFND_Ac_Fake_107: [Tổng thống Ukraine Zelensky đang "trốn" trong Đại sứ quán Mỹ ở Ba Lan](https://danviet.vn/co-tin-tong-thong-ukraine-zelensky-dang-tron-trong-dai-su-quan-my-o-ba-lan-20220305092804117.htm) - Như VFND_Ac_Fake_106
+
