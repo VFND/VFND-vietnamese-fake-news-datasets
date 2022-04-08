@@ -22,7 +22,7 @@ VFND_Ac_Fake_9: [Kinh hoàng bé gái bị chó nhà tấn công, cắn vào kh�
 
 VFND_Ac_Fake_10: [Bức vẽ giúp bạn đánh giá mức độ stress của bản thân](https://suckhoe.vnexpress.net/tin-tuc/tu-van/buc-ve-giup-ban-danh-gia-muc-do-stress-cua-ban-than-3840208.html) - bài viết mang thông tin giả, được nhóm kiểm chứng trong [post sau](https://zefro.wordpress.com/2018/11/20/khi-hinh-ban-nhin-khong-nhu-dieu-ban-doc-lat-tay-tin-gia-1/)
 
-VFND_Ac_Fake_10: [Bức vẽ giúp bạn đánh giá mức độ stress của bản thân](https://suckhoe.vnexpress.net/tin-tuc/tu-van/buc-ve-giup-ban-danh-gia-muc-do-stress-cua-ban-than-3840208.html)
+VFND_Ac_Fake_10: [Bức vẽ giúp bạn đánh giá mức độ stress của bản thân](https://suckhoe.vnexpress.net/tin-tuc/tu-van/buc-ve-giup-ban-danh-gia-muc-do-stress-cua-ban-than-3840208.html) - như VFND_Ac_Fake_10
 
 VFND_Ac_Fake_11: [KHẨN CẤP: Hàng loạt trẻ em nhập viện vì ngộ độc thịt lợn có chứa thuốc an thần](http://phapluat.news/khan-cap-hang-loat-tre-em-nhap-vien-vi-ngo-doc-thit-lon-co-chua-thuoc.html)
 
@@ -218,3 +218,8 @@ VFND_Ac_Fake_106: [Có tin Tổng thống Ukraine Zelensky đang trốn trong Đ
 
 VFND_Ac_Fake_107: [Tổng thống Ukraine Zelensky đang "trốn" trong Đại sứ quán Mỹ ở Ba Lan](https://danviet.vn/co-tin-tong-thong-ukraine-zelensky-dang-tron-trong-dai-su-quan-my-o-ba-lan-20220305092804117.htm) - Như VFND_Ac_Fake_106
 
+VFND_Ac_Fake_108: [qυên rúт ѕạc đιện тнoạι ĸнỏι ổ cắм, вà мẹ ngấт lịм nнìn тнảм cảnн хảy đến vớι con gáι](https://baophapluat.online/q%cf%85en-ru%d1%82-%d1%95ac-d%ce%b9en-%d1%82%d0%bdoa%ce%b9-k%d0%bdo%ce%b9-o-ca%d0%bc-%d0%b2a-%d0%bce-nga%d1%82-li%d0%bc-n%d0%bdin-%d1%82%d0%bda%d0%bc-can%d0%bd-%d1%85ay-den-vo%ce%b9-con-ga%ce%b9/)
+
+VFND_Ac_Fake_109: [Тáς giả Trường Lâm muốn đưa chữ 4.0 vào dạy THPT, đại học :" con tôi sẽ học khi đủ 5 tuổi !"](https://baophapluat.online/%d1%82a%cf%82-gia-truong-lam-muon-dua-chu-4-0-vao-day-thpt-dai-hoc-con-toi-se-hoc-khi-du-5-tuoi/)
+
+VFND_Ac_Fake_110: [ngнι ngờ vợ léng pнéng lúc мìnн đι công тác dàι нạn nên мớι có вầυ, cнồng ѕững ngườι ĸнι вιếт ѕự тнậт](https://baophapluat.online/ng%d0%bd%ce%b9-ngo-vo-leng-p%d0%bdeng-luc-%d0%bcin%d0%bd-d%ce%b9-cong-%d1%82ac-da%ce%b9-%d0%bdan-nen-%d0%bco%ce%b9-co-%d0%b2a%cf%85-c%d0%bdong-%d1%95ung-nguo%ce%b9-k%d0%bd%ce%b9-%d0%b2%ce%b9e%d1%82/)
