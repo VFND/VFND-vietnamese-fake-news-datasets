@@ -35,19 +35,27 @@ Các dữ liệu tin tức và nguồn dữ liệu của bộ dataset sẽ đư�
 
 Nhóm sử dụng thư viện: [news-please](https://github.com/fhamborg/news-please)
 
-## 2. Mô tả các thành phần trong bộ dữ liệu
+## 2. Mô tả các thành phần thư mục trong bộ dữ liệu
 
-### 2.1. [_Article_\__Contents_](Article_Contents): tập hợp các bài báo đã được phân loại
+### 2.1 [_Fake\_Real\_Dataset_](Fake_Real_Dataset)
 
-Thư mục được cấu trúc theo từng label của tin tức: `Fake, Real, Unclarified`, trong đó dữ liệu trong `Unclarified` sẽ được phân loại theo `Fake, Real` sau khi được xác nhận.
+[Fake_Real_Dataset](Fake_Real_Dataset): Tập dữ liệu được phân loại dựa trên 2 nhãn [Fake](Fake_Real_Dataset/Fake/) và [Real](Fake_Real_Dataset/Real) trong đó với mỗi nhãn tương ứng với một thư muc, trong từng thư muc sẽ được phân loại thành 2 nhóm: [Article_Contents](Fake_Real_Dataset/Article_Contents): tập hợp các bài báo đã được phân loại trong nhãn  và [Social_Contents](Facebook): tập hợp các Facebook post đã được phân loại.
 
-### 2.2. [_Facebook_](Facebook): tập hợp các facebook post đã được phân loại
-
-Cấu trúc của thư mục cũng tương tự như cấu trúc của _Article_\__Contents_, tuy nhiên, trong thư mục này nhóm tập trung vào những post được cộng đồng xác định là giả (Fake) hoặc chưa xác định thật giả (Unclarified)
+```
+Fake_Real_Dataset
+└───Fake
+    └───Article_Contents
+    └───Social_Contents
+└───Real
+    └───Article_Contents
+    └───Social_Contents
+```
 
 ### 2.3. [_Utils_](Utils): Các file hỗ trợ
 
-### 2.4. [_Dictionaries_](Dictionaries): Một số bộ từ điển hỗ trợ
+### 2.4. [_Dictionaries_](Dictionaries)
+
+Một số bộ từ điển hỗ trợ (nếu các nhóm sử dụng các thuật toán cổ điển để khảo sát). Đọc thêm chi tiết tại [README.md](Dictionaries/README.md)
 
 ### 2.5. [_CSV_](CSV): Các file CSV được trích xuất từ bộ dữ liệu
 
