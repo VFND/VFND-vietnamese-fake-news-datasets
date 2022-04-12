@@ -89,3 +89,9 @@ VFND_Ac_Pro_Russia_42: [N̲gh̲i v̲ấn U̲k̲r̲a̲i̲n̲e ᴛ̲ự ᴛh̲ả�
 VFND_Ac_Pro_Russia_43: [Cả tiểu đoàn thủy quân lục ch̲i̲ến 503 Uƙrаι̇пе ra ᵭα̂̀υ hὰпց Nga tại Mariupol](http://anninh247.xyz/ca-tieu-doan-thuy-quan-luc-ch%cc%b2i%cc%b2en-503-u%c6%99r%d0%b0%ce%b9%cc%87%d0%bf%d0%b5-ra-%e1%b5%ad%ce%b1%cc%82%cf%85-h%ce%b1%d0%bf%d6%81-nga-tai-mariupol/)
 
 VFND_Ac_Pro_Russia_44: [“Thảm sát Bucha”: Giới lãnh đạo phương Tây sốc nặng - Nga đề nghị HĐBA LHQ họp khẩn](https://we2045.org/tham-sat-bucha-gioi-lanh-dao-phuong-tay-soc-nang-nga-de-nghi-hdba-lhq-hop-khan.html/)
+
+VFND_Ac_Pro_Russia_45:
+
+VFND_Ac_Pro_Russia_46:
+
+VFND_Ac_Pro_Russia_47: [RT: Đoạn ghi âm cuộc gọi của quan chức Ukraine hé lộ một tình hình khác ở tây bắc Bucha](https://soha.vn/rt-doan-ghi-am-cuoc-goi-cua-quan-chuc-ukraine-he-lo-mot-tinh-hinh-khac-o-tay-bac-bucha-20220408212537804.htm)
