@@ -223,3 +223,9 @@ VFND_Ac_Fake_108: [qυên rúт ѕạc đιện тнoạι ĸнỏι ổ cắм,
 VFND_Ac_Fake_109: [Тáς giả Trường Lâm muốn đưa chữ 4.0 vào dạy THPT, đại học :" con tôi sẽ học khi đủ 5 tuổi !"](https://baophapluat.online/%d1%82a%cf%82-gia-truong-lam-muon-dua-chu-4-0-vao-day-thpt-dai-hoc-con-toi-se-hoc-khi-du-5-tuoi/)
 
 VFND_Ac_Fake_110: [ngнι ngờ vợ léng pнéng lúc мìnн đι công тác dàι нạn nên мớι có вầυ, cнồng ѕững ngườι ĸнι вιếт ѕự тнậт](https://baophapluat.online/ng%d0%bd%ce%b9-ngo-vo-leng-p%d0%bdeng-luc-%d0%bcin%d0%bd-d%ce%b9-cong-%d1%82ac-da%ce%b9-%d0%bdan-nen-%d0%bco%ce%b9-co-%d0%b2a%cf%85-c%d0%bdong-%d1%95ung-nguo%ce%b9-k%d0%bd%ce%b9-%d0%b2%ce%b9e%d1%82/)
+
+VFND_Ac_Fake_111: [MC Lại Văn Sâm đột ngột qua đời ở tuổi 64](https://tingame.info/mc-lai-van-sam-dot-ngot-qua-doi-o-tuoi-64/)
+
+VFND_Ac_Fake_112: [MC Lại Văn Sâm đột ngột qua đời ở tuổi 64](https://nuochoauk.vn/mc-lai-van-sam-dot-ngot-qua-doi-o-tuoi-64.html)
+
+VFND_Ac_Fake_113: [MC Lại Văn Sâm đột ngột qua đời ở tuổi 64 và sự thật chấn động?](https://shopjaxvinhphuc.vn/2021/06/15/mc-lai-van-sam-dot-ngot-qua-doi-o-tuoi-64-va-su-that-chan-dong/)
