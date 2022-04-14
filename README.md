@@ -67,68 +67,6 @@ Một số bộ từ điển hỗ trợ (nếu các nhóm sử dụng các thu�
 
 ## 4. Các tác giả
 
-### Giai đoạn 2: Từ 02/2019 đến nay
-
-<table>
-  <tr>
-    <td align="center"><a href="https://github.com/thanhhocse96"><img src="https://github.com/thanhhocse96.png" width="100px;" alt="Hồ Quang Thanh"/>
-      <br />
-      <sub>
-        <b>Thanh, H</b>
-      </sub>
-      </a>
-      <br />
-      <a href="https://github.com/thanhhocse96">Bach Khoa HCM</a>
-      <br />
-      <a href="https://github.com/thanhhocse96">CS student</a>
-    </td>
-  </tr>
-</table>
-
-### Giai đoạn 1: Từ 08/2018 đến 01/2019
-
-<table>
-  <tr>
-    <td align="center"><a href="https://www.facebook.com/minhninh.pham"><img src="https://github.com/ninh-pm-se.png" width="100px;" alt="Phạm Minh Ninh"/>
-      <br />
-      <sub>
-        <b>Ninh, P</b>
-      </sub>
-      </a>
-      <br />
-      <a href="https://github.com/ninh-pm-se">Bach Khoa HCM</a>
-      <br />
-      <a href="https://github.com/ninh-pm-se">CS student</a>
-    </td>
-    <td align="center"><a href="https://github.com/thanhhocse96"><img src="https://github.com/thanhhocse96.png" width="100px;" alt="Hồ Quang Thanh"/>
-      <br />
-      <sub>
-        <b>Thanh, H</b>
-      </sub>
-      </a>
-      <br />
-      <a href="https://github.com/thanhhocse96">Bach Khoa HCM</a>
-      <br />
-      <a href="https://github.com/thanhhocse96">CS student</a>
-    </td>
-  </tr>
-</table>
-
-### Đóng góp
-
-<table>
-  <tr>
-    <td align="center"><a href="https://github.com/tvc12"><img src="https://github.com/tvc12.png" width="100px;" alt="Vi Chí Thiện"/>
-      <br />
-      <sub>
-        <b>Vi Chí Thiện (Edited Readme - WTF?)</b>
-      </sub>
-      </a>
-      <br />
-    </td>
-  </tr>
-</table>
-
 Xem thêm trong [contributors](https://github.com/thanhhocse96/vfnd-vietnamese-fake-news-datasets/graphs/contributors)
 
 ## 5. Tham khảo thêm
