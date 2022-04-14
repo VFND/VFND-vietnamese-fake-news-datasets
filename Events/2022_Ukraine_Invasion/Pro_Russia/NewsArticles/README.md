@@ -97,3 +97,9 @@ VFND_Ac_Pro_Russia_46:
 VFND_Ac_Pro_Russia_47: [RT: Đoạn ghi âm cuộc gọi của quan chức Ukraine hé lộ một tình hình khác ở tây bắc Bucha](https://soha.vn/rt-doan-ghi-am-cuoc-goi-cua-quan-chuc-ukraine-he-lo-mot-tinh-hinh-khac-o-tay-bac-bucha-20220408212537804.htm)
 
 VFND_Ac_Pro_Russia_48: [Chi tiết lạ lùng mới hé lộ về chiến dịch Nga ở Ukraine: Hóa ra nhìn vậy mà không phải vậy?](https://soha.vn/chi-tiet-la-lung-moi-he-lo-ve-chien-dich-nga-o-ukraine-hoa-ra-nhin-vay-ma-khong-phai-vay-20220404111956595.htm)
+
+VFND_Ac_Pro_Russia_49: [Hơn 1.000 lính thủy đánh bộ Ukraine ra đầu hàng ở Mariupol](https://soha.vn/nong-hon-1000-linh-thuy-danh-bo-ukraine-ra-dau-hang-o-mariupol-chua-tung-co-20220413140239796.htm)
+
+VFND_Ac_Pro_Russia_50: [Hơn 1.000 lính thủy đánh bộ Ukraine đầu hàng ở Mariupol?](https://nld.com.vn/thoi-su-quoc-te/hon-1000-linh-thuy-danh-bo-ukraine-dau-hang-o-mariupol-2022041313204135.htm)
+
+VFND_Ac_Pro_Russia_51: [Nga xác nhận hơn 1.000 lính Ukraine ở Mariupol đã đầu hàng](https://cand.com.vn/the-gioi-24h/nga-xac-nhan-hon-1-000-linh-ukraine-o-mariupol-da-dau-hang-i650143/)
