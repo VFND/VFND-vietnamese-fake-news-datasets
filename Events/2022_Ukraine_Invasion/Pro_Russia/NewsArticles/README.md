@@ -111,3 +111,11 @@ VFND_Ac_Pro_Russia_53: [Ukraine: Tên lửa bắn vào nhà dân, không bên n�
 VFND_Ac_Pro_Russia_54: [Ông Putin nói 'thảm sát Bucha' là giả, đàm phán với Ukraine đang ở 'hẻm cụt'](https://tuoitre.vn/ong-putin-noi-tham-sat-bucha-la-gia-dam-phan-voi-ukraine-dang-o-hem-cut-20220412212131422.htm)
 
 VFND_Ac_Pro_Russia_55: [Nga nói phương Tây giúp Ukraine ngụy tạo cáo buộc thảm sát](https://baomoi.com/nga-noi-phuong-tay-giup-ukraine-nguy-tao-cao-buoc-tham-sat/c/42284586.epi)
+
+VFND_Ac_Pro_Russia_56: [Cư dân mạng Trung Quốc loan tin "thi thể thảm sát Bucha biết giơ tay, hút thuốc": Sự thật ra sao?](https://soha.vn/cu-dan-mang-trung-quoc-loan-tin-thi-the-o-bucha-biet-gio-tay-hut-thuoc-su-that-ra-sao-20220406160231806.htm)
+
+VFND_Ac_Pro_Russia_57: [Ông Putin phản bác cáo buộc 'thảm sát Bucha'](https://vnexpress.net/ong-putin-phan-bac-cao-buoc-tham-sat-bucha-4450664.html)
+
+VFND_Ac_Pro_Russia_58: [TẠI SAO VIỆT NAM BỎ PHIẾU TRẮNG TẠI CUỘC BỎ PHIẾU CỦA ĐẠI HỘI ĐỒNG LIÊN HỢP QUỐC](http://www.danquyen.net/2022/03/tai-sao-viet-nam-bo-phieu-trang-tai.html)
+
+VFND_Ac_Pro_Russia_59: [VIỆT NAM CÓ TỰ BẮN VÀO CHÂN MÌNH KHI BỎ PHIẾU CHỐNG TẠI LIÊN HỢP QUỐC](http://www.danquyen.net/2022/04/viet-nam-co-tu-ban-vao-chan-minh-khi-bo.html)
