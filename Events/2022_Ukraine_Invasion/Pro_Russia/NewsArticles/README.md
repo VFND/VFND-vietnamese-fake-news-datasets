@@ -103,3 +103,11 @@ VFND_Ac_Pro_Russia_49: [Hơn 1.000 lính thủy đánh bộ Ukraine ra đầu h�
 VFND_Ac_Pro_Russia_50: [Hơn 1.000 lính thủy đánh bộ Ukraine đầu hàng ở Mariupol?](https://nld.com.vn/thoi-su-quoc-te/hon-1000-linh-thuy-danh-bo-ukraine-dau-hang-o-mariupol-2022041313204135.htm)
 
 VFND_Ac_Pro_Russia_51: [Nga xác nhận hơn 1.000 lính Ukraine ở Mariupol đã đầu hàng](https://cand.com.vn/the-gioi-24h/nga-xac-nhan-hon-1-000-linh-ukraine-o-mariupol-da-dau-hang-i650143/)
+
+VFND_Ac_Pro_Russia_52: [Tên lửa phòng không Ukraine tự bắn trúng tòa chung cư ở Kiev](https://saostar.vn/the-gioi/ten-lua-phong-khong-ukraine-tu-ban-trung-toa-chung-cu-o-kiev-202202271128525058.html)
+
+VFND_Ac_Pro_Russia_53: [Ukraine: Tên lửa bắn vào nhà dân, không bên nào nhận trách nhiệm](https://infonet.vietnamnet.vn/the-gioi/ukraine-ten-lua-ban-vao-nha-dan-khong-ben-nao-nhan-trach-nhiem-168057.html)
+
+VFND_Ac_Pro_Russia_54: [Ông Putin nói 'thảm sát Bucha' là giả, đàm phán với Ukraine đang ở 'hẻm cụt'](https://tuoitre.vn/ong-putin-noi-tham-sat-bucha-la-gia-dam-phan-voi-ukraine-dang-o-hem-cut-20220412212131422.htm)
+
+VFND_Ac_Pro_Russia_55: [Nga nói phương Tây giúp Ukraine ngụy tạo cáo buộc thảm sát](https://baomoi.com/nga-noi-phuong-tay-giup-ukraine-nguy-tao-cao-buoc-tham-sat/c/42284586.epi)
