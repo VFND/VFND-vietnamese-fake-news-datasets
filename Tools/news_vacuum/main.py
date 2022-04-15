@@ -22,7 +22,7 @@ root.title('News Vacuum')
 root.geometry('600x400+50+50')
 root.resizable(False, False)
 root.attributes('-topmost', 1)
-# root.iconbitmap('./assets/pythontutorial.ico')
+# root.iconbitmap('./assets/logo.ico')
 
 ttk.Label(root, text="News Vacuum").pack()
 
