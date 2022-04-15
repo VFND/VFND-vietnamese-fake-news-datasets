@@ -119,3 +119,5 @@ VFND_Ac_Pro_Russia_57: [Ông Putin phản bác cáo buộc 'thảm sát Bucha'](
 VFND_Ac_Pro_Russia_58: [TẠI SAO VIỆT NAM BỎ PHIẾU TRẮNG TẠI CUỘC BỎ PHIẾU CỦA ĐẠI HỘI ĐỒNG LIÊN HỢP QUỐC](http://www.danquyen.net/2022/03/tai-sao-viet-nam-bo-phieu-trang-tai.html)
 
 VFND_Ac_Pro_Russia_59: [VIỆT NAM CÓ TỰ BẮN VÀO CHÂN MÌNH KHI BỎ PHIẾU CHỐNG TẠI LIÊN HỢP QUỐC](http://www.danquyen.net/2022/04/viet-nam-co-tu-ban-vao-chan-minh-khi-bo.html)
+
+VFND_Ac_Pro_Russia_60: [Nga tố trực thăng Ukraine xâm phạm không phận, tấn công nhà dân](https://vnexpress.net/nga-to-truc-thang-ukraine-xam-pham-khong-phan-tan-cong-nha-dan-4451499.html)
