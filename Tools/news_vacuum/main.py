@@ -1,8 +1,8 @@
 import tkinter as tk
 from tkinter import ttk
 
-root = tk.Tk()
-root.title('News Vacuum')
+# root = tk.Tk()
+# root.title('News Vacuum')
 
 # UNCOMMENT FOR USE
 # window_width = 600
@@ -19,17 +19,26 @@ root.title('News Vacuum')
 # root.geometry(f'{window_width}x{window_height}+{center_x}+{center_y}')
 
 
-root.geometry('600x400+50+50')
-root.resizable(False, False)
-root.attributes('-topmost', 1)
+# root.geometry('600x400+50+50')
+# root.resizable(False, False)
+# root.attributes('-topmost', 1)
 # root.iconbitmap('./assets/logo.ico')
 
-ttk.Label(root, text="News Vacuum").pack()
+# ttk.Label(root, text="News Vacuum").pack()
+
+class App(tk.Tk):
+    def __init__(self):
+        super().__init__()
+        self.title('News Vacuum')
+        self.geometry()
 
 
-try:
-    import ctypes
+# try:
+#     import ctypes
 
-    ctypes.windll.shcore.SetProcessDpiAwareness(1)
-finally:
-    root.mainloop()
+#     ctypes.windll.shcore.SetProcessDpiAwareness(1)
+# finally:
+#     root.mainloop()
+if __name__ == "__main__":
+    app  = App()
+    app.mainloop()
