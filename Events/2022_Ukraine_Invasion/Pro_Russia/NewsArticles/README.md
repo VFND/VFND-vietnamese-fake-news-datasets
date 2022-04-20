@@ -121,3 +121,19 @@ VFND_Ac_Pro_Russia_58: [TẠI SAO VIỆT NAM BỎ PHIẾU TRẮNG TẠI CUỘC B
 VFND_Ac_Pro_Russia_59: [VIỆT NAM CÓ TỰ BẮN VÀO CHÂN MÌNH KHI BỎ PHIẾU CHỐNG TẠI LIÊN HỢP QUỐC](http://www.danquyen.net/2022/04/viet-nam-co-tu-ban-vao-chan-minh-khi-bo.html)
 
 VFND_Ac_Pro_Russia_60: [Nga tố trực thăng Ukraine xâm phạm không phận, tấn công nhà dân](https://vnexpress.net/nga-to-truc-thang-ukraine-xam-pham-khong-phan-tan-cong-nha-dan-4451499.html)
+
+VFND_Ac_Pro_Russia_61: [Hải quân Nga tập trận ở biển Hoa Đông](https://tuoitre.vn/hai-quan-nga-tap-tran-o-bien-hoa-dong-20220420091028794.htm)
+
+VFND_Ac_Pro_Russia_62: [Vũ khí sinh học: từ "Biệt đội 731" đến "phòng thí nghiệm sinh học" ở Ukraina. Lịch sử có lặp lại?](https://vn.sputniknews.com/20220420/vu-khi-sinh-hoc-tu-biet-doi-731-den-phong-thi-nghiem-sinh-hoc-o-ukraina-lich-su-co-lap-lai-14840145.html)
+
+VFND_Ac_Pro_Russia_63: [Chuyên gia quân sự giải thích về trọng tâm của giai đoạn hai trong chiến dịch đặc biệt](https://vn.sputniknews.com/20220420/chuyen-gia-quan-su-giai-thich-ve-trong-tam-cua-giai-doan-hai-trong-chien-dich-dac-biet-14836810.html)
+
+VFND_Ac_Pro_Russia_64: [Putin: Suốt 8 năm LNR bị đánh bom, thảm kịch ở Donbass buộc Nga phải tiến hành chiến dịch đặc biệt](https://vn.sputniknews.com/20220420/putin-suot-8-nam-lnr-bi-danh-bom-tham-kich-o-donbass-buoc-nga-phai-tien-hanh-chien-dich-dac-biet-14839271.html)
+
+VFND_Ac_Pro_Russia_65: [Bộ Ngoại giao Nga: Nga từ lâu đã không còn tin tưởng các nhà đàm phán Ukraina](https://vn.sputniknews.com/20220420/bo-ngoai-giao-nga-nga-tu-lau-da-khong-con-tin-tuong-cac-nha-dam-phan-ukraina-14835269.html)
+
+VFND_Ac_Pro_Russia_66: [Nguồn tin ngoại giao: Hoa Kỳ hướng tới leo thang quân sự ở Ukraina](https://vn.sputniknews.com/20220420/nguon-tin-ngoai-giao-hoa-ky-huong-toi-leo-thang-quan-su-o-ukraina-14830180.html)
+
+VFND_Ac_Pro_Russia_67: [Bộ Ngoại giao Nga: London thoắt cái quay lưng với lính đánh thuê Anh bị giam giữ ở Donbass](https://vn.sputniknews.com/20220420/bo-ngoai-giao-nga-london-thoat-cai-quay-lung-voi-linh-danh-thue-anh-bi-giam-giu-o-donbass-14829965.html)
+
+VFND_Ac_Pro_Russia_68: [Việt Nam và Ấn Độ chọn trật tự thế giới nào?](https://vn.sputniknews.com/20220419/viet-nam-va-an-do-chon-trat-tu-the-gioi-nao-14823153.html)
