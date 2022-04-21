@@ -137,3 +137,7 @@ VFND_Ac_Pro_Russia_66: [Nguồn tin ngoại giao: Hoa Kỳ hướng tới leo th
 VFND_Ac_Pro_Russia_67: [Bộ Ngoại giao Nga: London thoắt cái quay lưng với lính đánh thuê Anh bị giam giữ ở Donbass](https://vn.sputniknews.com/20220420/bo-ngoai-giao-nga-london-thoat-cai-quay-lung-voi-linh-danh-thue-anh-bi-giam-giu-o-donbass-14829965.html)
 
 VFND_Ac_Pro_Russia_68: [Việt Nam và Ấn Độ chọn trật tự thế giới nào?](https://vn.sputniknews.com/20220419/viet-nam-va-an-do-chon-trat-tu-the-gioi-nao-14823153.html)
+
+VFND_Ac_Pro_Russia_69: [Nga không tấn công Azovstal vẫn chiếm được thành phố Mariupol](https://canhco.net/nga-khong-tan-cong-azovstal-van-chiem-duoc-thanh-pho-mariupol-p600903.html)
+
+VFND_Ac_Pro_Russia_70: [Nga tuyên bố chiếm hoàn toàn Mariupol của Ukraina](https://laodong.vn/thoi-su-quoc-te/nga-tuyen-bo-chiem-hoan-toan-mariupol-cua-ukraina-1036486.ldo)
