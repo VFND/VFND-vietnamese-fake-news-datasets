@@ -141,3 +141,9 @@ VFND_Ac_Pro_Russia_68: [Việt Nam và Ấn Độ chọn trật tự thế giớ
 VFND_Ac_Pro_Russia_69: [Nga không tấn công Azovstal vẫn chiếm được thành phố Mariupol](https://canhco.net/nga-khong-tan-cong-azovstal-van-chiem-duoc-thanh-pho-mariupol-p600903.html)
 
 VFND_Ac_Pro_Russia_70: [Nga tuyên bố chiếm hoàn toàn Mariupol của Ukraina](https://laodong.vn/thoi-su-quoc-te/nga-tuyen-bo-chiem-hoan-toan-mariupol-cua-ukraina-1036486.ldo)
+
+VFND_Ac_Pro_Russia_71: [Tập trận chung Nga-Việt: Có thể chỉ là diễn tập tham mưu - chỉ huy](https://vn.sputniknews.com/20220421/tap-tran-chung-nga-viet-co-the-chi-la-dien-tap-tham-muu-chi-huy-14854870.html)
+
+VFND_Ac_Pro_Russia_72: [Tập trận Nga-Việt: Chủ trương tăng cường hợp tác, hữu nghị vì hoà bình](https://vn.sputniknews.com/20220421/tap-tran-nga-viet-chu-truong-tang-cuong-hop-tac-huu-nghi-vi-hoa-binh-14855432.html)
+
+VFND_Ac_Pro_Russia_73: [Việt Nam và Nga: Lần đầu tiên tập trận chung](https://vn.sputniknews.com/20220420/viet-nam-va-nga-lan-dau-tien-tap-tran-chung-14844390.html)
