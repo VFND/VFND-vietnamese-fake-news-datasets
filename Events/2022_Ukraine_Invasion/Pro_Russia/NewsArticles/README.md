@@ -147,3 +147,9 @@ VFND_Ac_Pro_Russia_71: [Tập trận chung Nga-Việt: Có thể chỉ là diễ
 VFND_Ac_Pro_Russia_72: [Tập trận Nga-Việt: Chủ trương tăng cường hợp tác, hữu nghị vì hoà bình](https://vn.sputniknews.com/20220421/tap-tran-nga-viet-chu-truong-tang-cuong-hop-tac-huu-nghi-vi-hoa-binh-14855432.html)
 
 VFND_Ac_Pro_Russia_73: [Việt Nam và Nga: Lần đầu tiên tập trận chung](https://vn.sputniknews.com/20220420/viet-nam-va-nga-lan-dau-tien-tap-tran-chung-14844390.html)
+
+VFND_Ac_Pro_Russia_74: [Châu Âu lại mua khí đốt của Nga?](https://web.archive.org/web/20220424115637/https://tuoitre.vn/chau-au-lai-mua-khi-dot-cua-nga-20220423223109473.htm)
+
+VFND_Ac_Pro_Russia_75: [EU hướng dẫn các công ty mua khí đốt từ Nga](https://web.archive.org/web/20220424115952/https://vtc.vn/eu-huong-dan-cac-cong-ty-mua-khi-dot-tu-nga-ar673124.html)
+
+VFND_Ac_Pro_Russia_76: [Cuối cùng EU đã chịu thanh toán khí đốt Nga bằng đồng rúp](https://web.archive.org/web/20220424115830/https://laodong.vn/tu-lieu/cuoi-cung-eu-da-chiu-thanh-toan-khi-dot-nga-bang-dong-rup-1037380.ldo)
