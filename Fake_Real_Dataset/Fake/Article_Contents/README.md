@@ -229,3 +229,5 @@ VFND_Ac_Fake_111: [MC Lại Văn Sâm đột ngột qua đời ở tuổi 64](ht
 VFND_Ac_Fake_112: [MC Lại Văn Sâm đột ngột qua đời ở tuổi 64](https://nuochoauk.vn/mc-lai-van-sam-dot-ngot-qua-doi-o-tuoi-64.html)
 
 VFND_Ac_Fake_113: [MC Lại Văn Sâm đột ngột qua đời ở tuổi 64 và sự thật chấn động?](https://shopjaxvinhphuc.vn/2021/06/15/mc-lai-van-sam-dot-ngot-qua-doi-o-tuoi-64-va-su-that-chan-dong/)
+
+VFND_Ac_Fake_114: [Gái trẻ đi taxi trả tiền bằng... quần chip](https://danviet.vn/gai-tre-di-taxi-tra-tien-bang-quan-chip-77771003978.htm)
