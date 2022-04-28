@@ -18,7 +18,7 @@ Trong đó
 
 - `{Source}`:
   - `Ac` - nguồn bài báo từ các trang tin tức;
-  - `Fb` - Nguồn từ các bài viết của người dùng hoặc fanpage trên Facebook có tính chất như nguồn tin tức.
+  - `So` - Nguồn từ các bài viết của người dùng trên mạng xã hội Facebook, Twitter,... có tính chất như nguồn tin tức.
 - `{Label}` thuộc tập `{“Fake”, “Real”}`
 
 ### 1.1 Giới hạn các chủ đề tin tức trong tập dữ liệu:
