@@ -153,3 +153,7 @@ VFND_Ac_Pro_Russia_74: [Châu Âu lại mua khí đốt của Nga?](https://web.
 VFND_Ac_Pro_Russia_75: [EU hướng dẫn các công ty mua khí đốt từ Nga](https://web.archive.org/web/20220424115952/https://vtc.vn/eu-huong-dan-cac-cong-ty-mua-khi-dot-tu-nga-ar673124.html)
 
 VFND_Ac_Pro_Russia_76: [Cuối cùng EU đã chịu thanh toán khí đốt Nga bằng đồng rúp](https://web.archive.org/web/20220424115830/https://laodong.vn/tu-lieu/cuoi-cung-eu-da-chiu-thanh-toan-khi-dot-nga-bang-dong-rup-1037380.ldo)
+
+VFND_Ac_Pro_Russia_77: [Về cái gọi là "Thảm sát Bucha": Vì sao Ukraine và phương Tây câm nín?](https://www.trelangblog.com/2022/05/ve-cai-goi-la-tham-sat-bucha-vi-sao.html)
+
+VFND_Ac_Pro_Russia_78: [Vụ Bucha: Vì sao phương Tây lại im lặng?](https://omartvietnam.com/vu-bucha-vi-sao-phuong-tay-lai-im-lang)
