@@ -157,3 +157,9 @@ VFND_Ac_Pro_Russia_76: [Cuối cùng EU đã chịu thanh toán khí đốt Nga 
 VFND_Ac_Pro_Russia_77: [Về cái gọi là "Thảm sát Bucha": Vì sao Ukraine và phương Tây câm nín?](https://www.trelangblog.com/2022/05/ve-cai-goi-la-tham-sat-bucha-vi-sao.html)
 
 VFND_Ac_Pro_Russia_78: [Vụ Bucha: Vì sao phương Tây lại im lặng?](https://omartvietnam.com/vu-bucha-vi-sao-phuong-tay-lai-im-lang)
+
+VFND_Ac_Pro_Russia_80: [Có video quay cảnh lực lượng Ukraine bắn giết lính Nga đang bị thương](https://plo.vn/co-video-quay-canh-luc-luong-ukraine-ban-giet-linh-nga-dang-bi-thuong-post674970.html)
+
+VFND_Ac_Pro_Russia_81: [Lính nghĩa vụ Nga bắn chết 2 sĩ quan và 1 đồng đội tại căn cứ không quân](https://baotintuc.vn/the-gioi/linh-nghia-vu-nga-ban-chet-2-si-quan-va-1-dong-doi-tai-can-cu-khong-quan-20201109153551929.htm)
+
+VFND_Ac_Pro_Russia_82: [Xuất hiện video 'lính Ukraine hành quyết tù binh Nga'](https://vnexpress.net/xuat-hien-video-linh-ukraine-hanh-quyet-tu-binh-nga-4448973.html)
