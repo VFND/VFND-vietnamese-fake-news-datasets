@@ -163,3 +163,5 @@ VFND_Ac_Pro_Russia_80: [Có video quay cảnh lực lượng Ukraine bắn giế
 VFND_Ac_Pro_Russia_81: [Lính nghĩa vụ Nga bắn chết 2 sĩ quan và 1 đồng đội tại căn cứ không quân](https://baotintuc.vn/the-gioi/linh-nghia-vu-nga-ban-chet-2-si-quan-va-1-dong-doi-tai-can-cu-khong-quan-20201109153551929.htm)
 
 VFND_Ac_Pro_Russia_82: [Xuất hiện video 'lính Ukraine hành quyết tù binh Nga'](https://vnexpress.net/xuat-hien-video-linh-ukraine-hanh-quyet-tu-binh-nga-4448973.html)
+
+VFND_Ac_Pro_Russia_83: [Tổng thống Ukraine tự sát chính trị?](https://www.doisongphapluat.com/tong-thong-ukraine-tu-sat-chinh-tri-a22586.html)
