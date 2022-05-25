@@ -51,7 +51,8 @@ Fake_Real_Dataset
     └───Social_Contents
 ```
 
-### 2.3. [_Utils_](Utils): Các file hỗ trợ
+### 2.3. [_Tools_](Tools): 
+Các công cụ và thử nghiệm hỗ trợ việc lấy dữ liệu tin tức
 
 ### 2.4. [_Dictionaries_](Dictionaries)
 
