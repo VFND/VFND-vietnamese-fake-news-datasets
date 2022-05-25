@@ -18,7 +18,7 @@ Trong đó
 
 - `{Source}`:
   - `Ac` - nguồn bài báo từ các trang tin tức;
-  - `So` - Nguồn từ các bài viết của người dùng trên mạng xã hội Facebook, Twitter,... có tính chất như nguồn tin tức.
+  - `So` - Nguồn từ các bài viết của người dùng trên mạng xã hội Facebook, Twitter, YouTube... có tính chất như nguồn tin tức.
 - `{Label}` thuộc tập `{“Fake”, “Real”}`
 
 ### 1.1 Giới hạn các chủ đề tin tức trong tập dữ liệu:
@@ -51,7 +51,8 @@ Fake_Real_Dataset
     └───Social_Contents
 ```
 
-### 2.3. [_Utils_](Utils): Các file hỗ trợ
+### 2.3. [_Tools_](Tools): 
+Các công cụ và thử nghiệm hỗ trợ việc lấy dữ liệu tin tức
 
 ### 2.4. [_Dictionaries_](Dictionaries)
 

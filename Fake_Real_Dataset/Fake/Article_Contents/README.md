@@ -231,3 +231,10 @@ VFND_Ac_Fake_112: [MC Lại Văn Sâm đột ngột qua đời ở tuổi 64](ht
 VFND_Ac_Fake_113: [MC Lại Văn Sâm đột ngột qua đời ở tuổi 64 và sự thật chấn động?](https://shopjaxvinhphuc.vn/2021/06/15/mc-lai-van-sam-dot-ngot-qua-doi-o-tuoi-64-va-su-that-chan-dong/)
 
 VFND_Ac_Fake_114: [Gái trẻ đi taxi trả tiền bằng... quần chip](https://danviet.vn/gai-tre-di-taxi-tra-tien-bang-quan-chip-77771003978.htm)
+
+VFND_Ac_Fake_115: [Đàn ông có thể tự sinh con với nhau, không cần nữ giới?](https://tintuconline.com.vn/suc-khoe/dan-ong-co-the-tu-sinh-con-voi-nhau-khong-can-nu-gioi-n-281759.html): Nội dung bài viết nói về thí nghiệm thụ tinh giữa tinh trùng và phôi thai đơn tính, nhưng tiêu đề bài viết có nội dung hoàn toàn khác: đưa ra kết luận theo thì hiện tại, khẳng định "đàn ông có thể tự sinh con với nhau"
+
+VFND_Ac_Fake_116: [Đàn ông cũng có thể sinh con](https://kenh14.vn/gio-day-hai-nguoi-dan-ong-cung-co-the-sinh-con-voi-nhau-khong-can-phu-nu-20160914014702766.chn): Như VFND_Ac_Fake_115
+
+VFND_Ac_Fake_117: [Hai người đàn ông cũng có thể sinh con với nhau](https://hanoimoi.com.vn/ban-in/Khoa-hoc/848142/hai-nguoi-dan-ong-cung-co-the-sinh-con-voi-nhau): Như VFND_Ac_Fake_115
+
