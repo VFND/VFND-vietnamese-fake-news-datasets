@@ -48,7 +48,7 @@ VFND_Ac_Fake_21: [Phát hiện sự thật động trời sau việc chồng “
 
 VFND_Ac_Fake_22: [VIDEO: Xót xa nhìn cảnh cụ bà 87 tuổi co ro trong tấm chiếu cũ giữa mùa đông rét buốt](http://haiduong.tintuc.vn/goc-hai-duong/video-xot-xa-nhin-canh-cu-ba-87-tuoi-co-ro-trong-tam-chieu-cu-giua-mua-dong-ret-buot.html)
 
-VFND_Ac_Fake_23: [Một phụ nữ bịt mặt bắt cóc cháu bé 5 tuổi bị người dân tóm gọn](https://laodong.vn/phap-luat/mot-phu-nu-bit-mat-bat-coc-chau-be-5-tuoi-bi-nguoi-dan-tom-gon-605391.ldo)
+VFND_Ac_Fake_23: [TẢI NGAY APP 567LIVE NGẮM GÁI XINH NÓNG BỎNG](https://vinaexpress.com.vn/tai-ngay-app-567live-ngam-gai-xinh-nong-bong/)
 
 VFND_Ac_Fake_24: [Bi kịch ngoại tình với bố chồng](http://sorry.vn/blog/read/131-Bi-kich-ngoai-tinh-voi-bo-chong.html)
 
