@@ -116,8 +116,9 @@ def main():
             url_list = url_list_str.split('\n')
             
             controler.set_url_list(url_list)
-            controler.processing()
+            window['-OUTPUT-'].update(controler.log)
 
+            controler.processing()
             window['-OUTPUT-'].update(controler.log)
 
     # --------------------------------- Close & Exit ---------------------------------
