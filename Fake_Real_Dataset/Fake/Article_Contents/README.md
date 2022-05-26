@@ -212,7 +212,7 @@ VFND_Ac_Fake_103: [Tập đoàn lớn mạnh nhất UAE sản xuất, xuất kh�
 
 VFND_Ac_Fake_104: [Bộ KIT xét nghiệm Covid -19 của Việt Nam sản xuất vừa được Tổ chức Y tế Thế giới chấp thuận](https://web.archive.org/web/20210506030751/https://www.most.gov.vn/vn/tin-tuc/17701/bo-kit-xet-nghiem-covid--19-cua-viet-nam-san-xuat-vua-duoc-to-chuc-y-te-the-gioi-chap-thuan.aspx) - Lý do xem VFND_Ac_Real_124
 
-VFND_Ac_Fake_105: [Pravda: Đặc nhiệm Nga tiêu diệt tay súng bắn tỉa "giỏi nhất thế giới" ở Ukraine](https://doanhnghiepvn.vn/quoc-te/pravda-dac-nhiem-nga-tieu-diet-tay-sung-ban-tia-gioi-nhat-the-gioi-o-ukraine/20220316033244445) - Người được đề cập đến trong bài viết vẫn còn sống, nguồn tin không được kiểm chứng, sai về nguồn thông tin 
+VFND_Ac_Fake_105: [Pravda: Đặc nhiệm Nga tiêu diệt tay súng bắn tỉa "giỏi nhất thế giới" ở Ukraine](https://doanhnghiepvn.vn/quoc-te/pravda-dac-nhiem-nga-tieu-diet-tay-sung-ban-tia-gioi-nhat-the-gioi-o-ukraine/20220316033244445) - Người được đề cập đến trong bài viết vẫn còn sống, nguồn tin không được kiểm chứng, sai về nguồn thông tin.
 
 VFND_Ac_Fake_106: [Có tin Tổng thống Ukraine Zelensky đang trốn trong Đại sứ quán Mỹ ở Ba Lan](https://vietgiaitri.com/co-tin-tong-thong-ukraine-zelensky-dang-tron-trong-dai-su-quan-my-o-ba-lan-20220306i6342396/) - Nội dung tường thuật lại một sự kiện không có thật trong cuộc xâm lược Ukraine của Nga: "Tổng thống Ukraine bỏ trốn sang Ba Lan"
 
@@ -238,3 +238,6 @@ VFND_Ac_Fake_116: [Đàn ông cũng có thể sinh con](https://kenh14.vn/gio-da
 
 VFND_Ac_Fake_117: [Hai người đàn ông cũng có thể sinh con với nhau](https://hanoimoi.com.vn/ban-in/Khoa-hoc/848142/hai-nguoi-dan-ong-cung-co-the-sinh-con-voi-nhau): Như VFND_Ac_Fake_115
 
+VFND_Ac_Fake_118: [Bỏ vợ già chi 2 tỷ cưới vợ trẻ măng, cυồɴɢ ɴʜiệτ tới nửa đêm tôi ƈăm ʜậɴ trả về](http://anninh247.xyz/bo-vo-gia-chi-2-ty-cuoi-vo-tre-mang-c%cf%85o%c9%b4%c9%a2-%c9%b4%ca%9cie%cf%84-toi-nua-dem-toi-%c6%88am-%ca%9ca%c9%b4-tra-ve/)
+
+VFND_Ac_Fake_119: [Mừng sinh nhậт sếρ, ƙhi thanh тoán hóa ᵭ‌ơn тhì тấт cả ᵭ‌ều cúi ᵭ‌ầu νào ᵭ‌iện тhoại, cậu тhanh niên тrả тiền тhì hôm sau choáng νáng](http://anninh247.xyz/mung-sinh-nha%d1%82-se%cf%81-%c6%99hi-thanh-%d1%82oan-hoa-%e1%b5%ad%e2%80%8con-%d1%82hi-%d1%82a%d1%82-ca-%e1%b5%ad%e2%80%8ceu-cui-%e1%b5%ad%e2%80%8cau-%ce%bdao-%e1%b5%ad%e2%80%8cien-%d1%82hoai-cau)
