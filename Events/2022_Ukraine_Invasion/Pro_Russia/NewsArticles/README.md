@@ -1,5 +1,7 @@
 # Danh sách tin tức mang nhãn Pro_Russia
 
+Các tin tức có thứ tự sau đã được thêm vào master: 6, 7, 39, 42, 56
+
 VFND_Ac_Pro_Russia_0: [Tướng Cương: Nga sẽ không ‘sa lầy’ ở Ukraine](https://baonghean.vn/tuong-cuong-nga-se-khong-sa-lay-o-ukraine-303077.html): Bài báo dựa trên các tuyên truyền về mục đích của Nga khi thực hiện chiến dịch quân sự đối với Ukraine và các cáo buộc một chiều từ Nga: "Nga không xâm lược, không cướp đất của Ukraine", "Ngăn Ukraine gia nhập NATO", "Ngăn mối đe dọa từ Ukraine" 
 
 VFND_Ac_Pro_Russia_1: [Từ xung đột Nga- Ukraine rút ra 5 bài học sâu sắc để bảo vệ Tổ quốc](https://danviet.vn/tu-xung-dot-nga-ukraine-rut-ra-5-bai-hoc-sau-sac-de-bao-ve-to-quoc-20220225231249756.htm): Bài báo này dựa hoàn toàn vào tuyên truyền và cáo buộc của Nga về Ukraine: "quốc gia phát xít", "(chính quyền Ukraine) diệt chủng người dân"
@@ -165,3 +167,5 @@ VFND_Ac_Pro_Russia_81: [Lính nghĩa vụ Nga bắn chết 2 sĩ quan và 1 đ�
 VFND_Ac_Pro_Russia_82: [Xuất hiện video 'lính Ukraine hành quyết tù binh Nga'](https://vnexpress.net/xuat-hien-video-linh-ukraine-hanh-quyet-tu-binh-nga-4448973.html)
 
 VFND_Ac_Pro_Russia_83: [Tổng thống Ukraine tự sát chính trị?](https://www.doisongphapluat.com/tong-thong-ukraine-tu-sat-chinh-tri-a22586.html)
+
+VFND_Ac_Pro_Russia_84: [Ukraine khẩn thiết xin Mỹ và đồng minh 'con át chủ bài' để chống đỡ trước Nga](https://tinmoi.vn/ukraine-khan-thiet-xin-my-va-dong-minh-con-at-chu-bai-de-chong-do-truoc-nga-011603495.html)
