@@ -245,3 +245,17 @@ VFND_Ac_Fake_119: [Mừng sinh nhậт sếρ, ƙhi thanh тoán hóa ᵭ‌ơn 
 VFND_Ac_Fake_120: [CCTV: Nga 2 lần yêu cầu HĐBA họp khẩn nhưng bất thành, sẽ nộp bằng chứng "thảm sát Bucha"](https://soha.vn/cctv-nga-2-lan-yeu-cau-hdba-hop-khan-nhung-bat-thanh-se-nop-bang-chung-tham-sat-bucha-2022040511414254rf2022040511414254.htm): Từ 120-122 các tin tức giả về sự kiện "thảm sát Bucha" trong chiến tranh Nga - Ukraine đã được các cơ quan báo chí, tình báo nguồn mở xác minh là tin tức giả, các nội dung được xác minh là giả bao gồm: "Ukraine tự dàn dựng vụ Bucha", "lính Ukraine giết dân Ukraine",...
 
 VFND_Ac_Fake_121: [N̲gh̲i v̲ấn U̲k̲r̲a̲i̲n̲e ᴛ̲ự ᴛh̲ả̲m s̲á̲ᴛ d̲â̲n củ̲a̲ m̲ì̲n̲h: G̲i̲ới lãn̲h̲ đ̲ạo ph̲ư̲ơng T̲â̲y số̲c nặn̲g - N̲ga đ̲ề n̲gh̲ị HĐBA LH̲Q h̲ọp k̲h̲ẩ̲n](http://anninh247.xyz/n%cc%b2gh%cc%b2i-v%cc%b2an-u%cc%b2k%cc%b2r%cc%b2a%cc%b2i%cc%b2n%cc%b2e-%e1%b4%9b%cc%b2u-%e1%b4%9bh%cc%b2a%cc%b2m-s%cc%b2a%cc%b2%e1%b4%9b-d%cc%b2a%cc%b2n-cu%cc%b2a%cc%b2-m%cc%b2i%cc%b2n%cc%b2h-g%cc%b2/), như VFND_Ac_Fake_120
+
+VFND_Ac_Fake_122: [Có phải con gái là người tình kiếp trước của bố? Hiểu thế nào đây](https://lichngaytot.com/tam-linh/con-gai-la-nguoi-tinh-kiep-truoc-cua-bo-564-212420.html) từ VFND_Ac_Fake_122 đến VFND_Ac_Fake_128: dựa trên luận điểm và tiền đề sai - "Con gái là người tình kiếp trước của bố"
+
+VFND_Ac_Fake_123: [Tình cảm giữa bố và con gái tưởng rằng xa cách nhưng lại rất gần](https://tuvanannam.com/tu-van-giao-duc-con-cai/bo-voi-con-gai.html)
+
+VFND_Ac_Fake_124: [Lớn lên, con sẽ lấy một người chồng giống bố](https://blogxcy.wordpress.com/2014/12/22/lon-len-con-se-lay-mot-nguoi-chong-giong-bo/)
+
+VFND_Ac_Fake_125: [Bố và con gái: Tình yêu đến từ kiếp trước?](https://www.webtretho.com/f/chuyen-tinh-yeu/bo-va-con-gai-tinh-yeu-den-tu-kiep-truoc-2480455)
+
+VFND_Ac_Fake_126: [Mẹ và con gái mới đích thực là tình nhân nhiều kiếp](https://www.webtretho.com/f/me-hong-chuyen/me-va-con-gai-moi-dich-thuc-la-tinh-nhan-nhieu-kiep)
+
+VFND_Ac_Fake_127: [Chị Vân ạ, chỉ 1 câu nói “con gái là người tình kiếp trước của bố!” thì chẳng khiến người ta loạn luân được đâu!](https://www.webtretho.com/f/hanh-trinh-lam-me/chi-van-a-chi-1-cau-noi-con-gai-la-nguoi-tinh-kiep-truoc-cua-bo-thi-chang-khien-nguoi-ta-loan-luan-duoc-dau-2481674)
+
+VFND_Ac_Fake_128: [Con Gái Là Tình Nhân Kiếp Trước Của Bố](https://www.webtretho.com/f/sach-truyen-tho/con-gai-la-tinh-nhan-kiep-truoc-cua-bo)
