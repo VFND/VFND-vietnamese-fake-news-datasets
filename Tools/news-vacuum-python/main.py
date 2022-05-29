@@ -1,4 +1,5 @@
 from cmath import exp
+from fileinput import filename
 import os, json
 from newsplease import NewsPlease
 import PySimpleGUI as sg
@@ -8,6 +9,7 @@ import PySimpleGUI as sg
 class NewsData():
     def __init__(self):
         self.log = ""
+        self.readme = ""
         pass
 
     def set_url_list(self, url_list):
@@ -24,6 +26,9 @@ class NewsData():
 
     def update_log(self, message):
         self.log = self.log + message
+    
+    def update_README(self, readme_text):
+        self.readme = self.readme + readme_text
 
     # Technical Debt: Need checking and exception
     def processing(self):
@@ -52,11 +57,17 @@ class NewsData():
                     json.dump(news.__dict__, outfile, indent=4, sort_keys=True, default=str, ensure_ascii=False)
 
                 self.update_log('News -> JSON: ' + str(file_name) + '\n--------------\n')
-            
+                
+                readme_text = filename + ': [' + news.get_dict()['title'] + '](' + news.get_dict()['url'] + ")\n\n"
+                self.update_README(readme_text)
+                print(self.readme)
+
             except Exception as e:
                 news_url = news.get_dict()['url']
                 self.update_log(str(e) + ': ' + news_url + '\n--------------\n')
                 continue
+
+    
 
 def main():
     sg.theme('DarkBlue2')
@@ -121,6 +132,10 @@ def main():
             controler.processing()
             window['-OUTPUT-'].update(controler.log)
 
+            readme_log = controler.log + "\nUPDATE README.md------------------- \n" + controler.readme
+            window['-OUTPUT-'].update(readme_log)
+
+    window.close()
     # --------------------------------- Close & Exit ---------------------------------
 
 if __name__ == '__main__':

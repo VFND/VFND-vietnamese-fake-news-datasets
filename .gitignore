@@ -116,3 +116,6 @@ URL
 
 Utils/__pycache__
 Utils/.ipynb_checkpoints
+
+# news_vacuum app
+profile.txt

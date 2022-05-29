@@ -2,6 +2,8 @@
 
 Cấu trúc của phần lưu trữ tin tức giả: __{Tên file}: {Tiêu đề/Link} - {Lý do phân loại}__. Trong một số tin tức sẽ có thêm phần _relevant_\__site_"
 
+VFND_Ac_Fake_0: [Con gái chính là người tình kiếp trước của cha](https://2sao.vn/loat-anh-sieu-yeu-chung-minh-con-gai-la-nguoi-tinh-kiep-truoc-cua-cha-i-154763.html): Tiền đề sai
+
 VFND_Ac_Fake_1: [Thủ tướng Abe cúi đầu xin lỗi vì hành động phi thể thao của tuyển Nhật](http://binhluan.biz/thu-tuong-abe-cui-dau-xin-loi-vi-hanh-dong-phi-the-thao-cua-tuyen-nhat.html) - So sánh với nguồn tin chuẩn, hình ảnh sai lệch
 
 VFND_Ac_Fake_2: [Thủ tướng Nhật cúi đầu xin lỗi vì tinh thần phi thể thao của đội bóng](http://www.ipick.vn/bai-viet/thu-tuong-nhat-cui-dau-xin-loi-vi-tinh-than-phi-the-thao-cua-doi-bong) - Nguồn từ bài viết được phân loại GIẢ
