@@ -87,5 +87,3 @@ Xem thêm trong [contributors](https://github.com/thanhhocse96/vfnd-vietnamese-f
   url          = {https://doi.org/10.5281/zenodo.2578917}
 }
 ```
-
-## 7. Các thay đổi trong dự án
