@@ -49,6 +49,9 @@ class NewsData():
 
     def dump_news_to_json(self):
         file_no = int(self.json_start_no)
+
+        readme_text = "0"
+
         for news in self.news_list:
             try:
                 file_name = self.json_prefix + str(file_no) + '.json' 
@@ -58,16 +61,17 @@ class NewsData():
 
                 self.update_log('News -> JSON: ' + str(file_name) + '\n--------------\n')
                 
-                readme_text = filename + ': [' + news.get_dict()['title'] + '](' + news.get_dict()['url'] + ")\n\n"
-                self.update_README(readme_text)
-                print(self.readme)
+                news_dict = news.__dict__
+                readme_text = readme_text + self.json_prefix + str(file_no) + ": [" + news_dict['title'] + "](" + news_dict['url'] + ")\n\n"
+                
 
             except Exception as e:
                 news_url = news.get_dict()['url']
-                self.update_log(str(e) + ': ' + news_url + '\n--------------\n')
+                self.update_log(str(e) + ": " + news_url + '\n--------------\n')
                 continue
 
-    
+        self.update_README(readme_text)
+        print(self.readme)
 
 def main():
     sg.theme('DarkBlue2')
