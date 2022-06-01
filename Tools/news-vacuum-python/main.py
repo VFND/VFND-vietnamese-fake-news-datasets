@@ -50,7 +50,7 @@ class NewsData():
     def dump_news_to_json(self):
         file_no = int(self.json_start_no)
 
-        readme_text = "0"
+        readme_text = ""
 
         for news in self.news_list:
             try:
@@ -71,7 +71,6 @@ class NewsData():
                 continue
 
         self.update_README(readme_text)
-        print(self.readme)
 
 def main():
     sg.theme('DarkBlue2')
