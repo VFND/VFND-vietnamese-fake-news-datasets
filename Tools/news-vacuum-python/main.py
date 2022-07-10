@@ -55,7 +55,7 @@ class NewsData():
         for news in self.news_list:
             try:
                 file_name = self.json_prefix + str(file_no) + '.json' 
-                file_no += 1
+                
                 with open(os.path.join(self.file_path, file_name), 'w', encoding='utf-8') as outfile:
                     json.dump(news.__dict__, outfile, indent=4, sort_keys=True, default=str, ensure_ascii=False)
 
@@ -64,6 +64,7 @@ class NewsData():
                 news_dict = news.__dict__
                 readme_text = readme_text + self.json_prefix + str(file_no) + ": [" + news_dict['title'] + "](" + news_dict['url'] + ")\n\n"
                 
+                file_no += 1
 
             except Exception as e:
                 news_url = news.get_dict()['url']
