@@ -253,3 +253,9 @@ VFND_Ac_Real_122: [Chuyện về chàng sinh viên Luật - Kiện tướng Lê 
 VFND_Ac_Real_123: [Tiền đạo Malaysia: “Tôi đã có cách vượt qua hàng thủ đội tuyển Việt Nam”](https://dantri.com.vn/the-thao/tien-dao-malaysia-toi-da-co-cach-vuot-qua-hang-thu-doi-tuyen-viet-nam-20181209191129676.htm)
 
 VFND_Ac_Real_124: [WHO không chấp nhận kit test của Công ty Việt Á](https://thanhnien.vn/who-khong-chap-nhan-kit-test-cua-cong-ty-viet-a-post1413569.html)
+
+VFND_Ac_Real_125: [Thực hư thông tin Nhật Bản cấm lò vi sóng từ cuối năm 2019 vì độc hại](https://www.anninhthudo.vn/thuc-hu-thong-tin-nhat-ban-cam-lo-vi-song-tu-cuoi-nam-2019-vi-doc-hai-post404236.antd)
+
+VFND_Ac_Real_126: [Nhật Bản cấm lò vi sóng, phạt tù từ 5 đến 10 năm ai còn dùng lò vi sóng](https://tuoitre.vn/facebook-ran-ran-vu-nhat-ban-cam-lo-vi-song-cuoi-nam-nay-20190822135827808.htm)
+
+VFND_Ac_Real_127: ['Nhật Bản cấm dùng lò vi sóng' là tin giả](https://vnexpress.net/nhat-ban-cam-dung-lo-vi-song-la-tin-gia-3977410.html)
