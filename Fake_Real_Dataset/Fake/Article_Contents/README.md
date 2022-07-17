@@ -261,3 +261,5 @@ VFND_Ac_Fake_126: [Mẹ và con gái mới đích thực là tình nhân nhiều
 VFND_Ac_Fake_127: [Chị Vân ạ, chỉ 1 câu nói “con gái là người tình kiếp trước của bố!” thì chẳng khiến người ta loạn luân được đâu!](https://www.webtretho.com/f/hanh-trinh-lam-me/chi-van-a-chi-1-cau-noi-con-gai-la-nguoi-tinh-kiep-truoc-cua-bo-thi-chang-khien-nguoi-ta-loan-luan-duoc-dau-2481674)
 
 VFND_Ac_Fake_128: [Con Gái Là Tình Nhân Kiếp Trước Của Bố](https://www.webtretho.com/f/sach-truyen-tho/con-gai-la-tinh-nhan-kiep-truoc-cua-bo)
+
+VFND_Ac_Fake_129: [Tin tức Tổng Thống Trump & Q: CANH BÁO!!!! 18/8/2019 Chính phủ Nhật Bản đã quyết định chấm dứt sản xuất và loại bỏ lò vi sóng ở nước này trước cuối năm nay. Tất cả công dân và tổ chức không đáp ứng yê](https://trumpandq.blogspot.com/2021/09/canh-bao-1882019-chinh-phu-nhat-ban.html)
