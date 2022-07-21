@@ -6,7 +6,7 @@ VFDN_Ac_Monitoring_2: [Bộ Công an bác bỏ tin đồn "cấm xuất cảnh �
 
 VFDN_Ac_Monitoring_3: [Điều tra 10 cá nhân đưa tin thất thiệt ông Phạm Nhật Vượng bị cấm xuất cảnh](https://thanhnien.vn/dieu-tra-10-ca-nhan-dua-tin-that-thiet-ong-pham-nhat-vuong-bi-cam-xuat-canh-post1477103.html)
 
-#### VuongPham related
+----------------------
 
 VFDN_Ac_Monitoring_4: [Khoa Pug và triệu phú Vương Phạm lên tiếng về thương vụ mở nhà hàng triệu đô ở Mỹ: Thích thì chiến, không đặt nặng doanh thu, lợi nhuận!](https://vietgiaitri.com/khoa-pug-va-trieu-phu-vuong-pham-len-tieng-ve-thuong-vu-mo-nha-hang-trieu-do-o-my-thich-thi-chien-khong-dat-nang-doanh-thu-loi-nhuan-20211117i6159161/)
 
@@ -25,3 +25,7 @@ VFDN_Ac_Monitoring_10: [Khu rừng 300 hecta, lãi 6 triệu đô](https://soha.
 VFDN_Ac_Monitoring_11: [Vương Phạm hé lộ dự án triệu đô hợp tác cùng Khoa Pug trên đất Mỹ](https://soha.vn/vuong-pham-he-lo-du-an-trieu-do-hop-tac-cung-khoa-pug-tren-dat-my-20211112151412038.htm)
 
 VFDN_Ac_Monitoring_12: [Khoa Pug Vương Phạm chi 6 tỷ mua tiệm phở 620m2 tại Mỹ: Đập đi, xây dựng nhà hàng lẩu](https://vietgiaitri.com/khoa-pug-vuong-pham-chi-6-ty-mua-tiem-pho-620m2-tai-my-dap-di-xay-dung-nha-hang-lau-rty1-20211124i6172370/)
+
+----------------------
+
+VFDN_Ac_Monitoring_13: [Lưu Thiên Hương nói ồn ào vô lý, Hồ Hoài Anh về nước tối nay](https://2sao.vn/luu-thien-huong-noi-on-ao-vo-ly-ho-hoai-anh-ve-nuoc-toi-nay-n-311785.html)
