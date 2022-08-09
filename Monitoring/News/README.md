@@ -29,3 +29,7 @@ VFDN_Ac_Monitoring_12: [Khoa Pug Vương Phạm chi 6 tỷ mua tiệm phở 620m
 ----------------------
 
 VFDN_Ac_Monitoring_13: [Lưu Thiên Hương nói ồn ào vô lý, Hồ Hoài Anh về nước tối nay](https://2sao.vn/luu-thien-huong-noi-on-ao-vo-ly-ho-hoai-anh-ve-nuoc-toi-nay-n-311785.html)
+
+VFDN_Ac_Monitoring_14: [Phi thuyền Việt Nam đầu tiên sẽ đưa người lên không gian cuối năm nay](https://vtc.vn/phi-thuyen-viet-nam-dau-tien-se-dua-nguoi-len-khong-gian-cuoi-nam-nay-ar324443.html)
+
+VFDN_Ac_Monitoring_15: [Đạn pháo Ukraina rơi trúng một chiếc xe buýt ở Donetsk, khiến 3 người thiệt mạng](https://vn.sputniknews.com/20220806/dan-ukraina-trung-xe-buyt-khien-3-nguoi-thiet-mang-16870667.html)
