@@ -1,3 +1,0 @@
-/home/shinkuso/Documents/GitHub/VFND-vietnamese-fake-news-datasets/Fake_Real_Dataset/Fake/Article_Contents
-VFND_Ac_Fake_
-VFND_Ac_Fake_by_Totalitarian_
