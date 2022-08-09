@@ -33,3 +33,6 @@ VFDN_Ac_Monitoring_13: [Lưu Thiên Hương nói ồn ào vô lý, Hồ Hoài An
 VFDN_Ac_Monitoring_14: [Phi thuyền Việt Nam đầu tiên sẽ đưa người lên không gian cuối năm nay](https://vtc.vn/phi-thuyen-viet-nam-dau-tien-se-dua-nguoi-len-khong-gian-cuoi-nam-nay-ar324443.html)
 
 VFDN_Ac_Monitoring_15: [Đạn pháo Ukraina rơi trúng một chiếc xe buýt ở Donetsk, khiến 3 người thiệt mạng](https://vn.sputniknews.com/20220806/dan-ukraina-trung-xe-buyt-khien-3-nguoi-thiet-mang-16870667.html)
+
+VFDN_Ac_Monitoring_16 -> Fake: [Dân Mỹ tích cóp ve chai bán kiếm tiền, mua hàng sắp ‘hết đát’ để tiết kiệm khi giá cả tăng kỷ lục](http://nhipsongkinhte.toquoc.vn/dan-my-tich-cop-ve-chai-ban-kiem-tien-mua-hang-sap-het-dat-de-tiet-kiem-khi-gia-ca-tang-ky-luc-42022307104038922.htm) - Bài được dịch từ [This region is suffering from some of the highest inflation in America. Here's how locals are surviving - CNN](https://edition.cnn.com/2022/07/28/economy/surviving-second-highest-inflation/index.html) nhưng thay đổi tiêu đề và nội dung để gây hiểu nhầm: từ "Vùng Riverside trong tiểu bang California đang bị ảnh hưởng bởi lạm phát, người dân cố gắng vượt qua thông qua việc kiếm thêm thu nhập và mua đồ được giảm giá" thành "Dân Mỹ phải bán ve chai để kiếm tiền, và mua hàng sắp hết hạn sử dụng vì lạm phát".
+
