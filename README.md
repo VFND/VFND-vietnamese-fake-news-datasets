@@ -10,7 +10,7 @@ Nếu muốn sử dụng, mời các bạn vui lòng liên hệ đến email: [t
 
 Nhằm xây dựng bộ dataset chi tiết hơn (có thể gọi là version 2) về tin tức giả Tiếng Việt, chúng tôi mong các bạn có thể báo cáo các tin tức giả các bạn vô tình đọc được qua đường dẫn sau [http://bit.ly/fake-news-report-zefro](http://bit.ly/fake-news-report-zefro) (Khi các bạn báo cáo, vui lòng dùng thêm link wayback machine để chúng tôi có thể cập nhật nếu như trang tin giả được các cơ quan hữu trách dọn dẹp). Các bạn có thể tham khảo một số content về tin tức giả được chúng tôi cập nhật trên [ZeFro blog](https://zefro.wordpress.com/portfolio/fake-news-detection-nhan-dang-tin-tuc-gia/)
 
-Dự án xin ngừng cập nhật với lý do: trong một môi trường tin tức chỉ có 1 kiểu tường thuật được cấp phép, quản lý và kiểm duyệt, việc nhận dạng tin tức giả trở nên không cần thiết. 
+**Dự án xin ngừng cập nhật với lý do:** trong một môi trường tin tức chỉ có 1 kiểu tường thuật được cấp phép, quản lý và kiểm duyệt, việc nhận dạng tin tức giả trở nên không cần thiết. 
 
 ## 1. Giới thiệu tổng quan và các chủ đề tin tức
 
